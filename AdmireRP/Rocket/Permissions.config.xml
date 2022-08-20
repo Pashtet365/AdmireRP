@@ -4,8 +4,8 @@
   <Groups>
     <Group>
       <Id>default</Id>
-      <DisplayName>Гражданин</DisplayName>
-      <Prefix>[Гражданин]</Prefix>
+      <DisplayName>Гражданин </DisplayName>
+      <Prefix>[Гражданин] </Prefix>
       <Suffix />
       <Color>white</Color>
       <Members />
@@ -36,14 +36,14 @@
         <Permission Cooldown="30">v</Permission>
       </Permissions>
     </Group>
-
     <Group>
       <Id>Bandit</Id>
-      <DisplayName>Бандит</DisplayName>
-      <Prefix>[Бандит]</Prefix>
+      <DisplayName>Бандит </DisplayName>
+      <Prefix>[Бандит] </Prefix>
       <Suffix />
       <Color>FF9900</Color>
       <Members>
+        <Member>76561198840708393</Member>
       </Members>
       <ParentGroup>default</ParentGroup>
       <Priority>100</Priority>
@@ -53,12 +53,11 @@
     </Group>
     <Group>
       <Id>Raider</Id>
-      <DisplayName>Рейдер</DisplayName>
-      <Prefix>[Рейдер]</Prefix>
+      <DisplayName>Рейдер </DisplayName>
+      <Prefix>[Рейдер] </Prefix>
       <Suffix />
       <Color>FF9900</Color>
-      <Members>
-      </Members>
+      <Members />
       <ParentGroup>default</ParentGroup>
       <Priority>100</Priority>
       <Permissions>
@@ -67,12 +66,11 @@
     </Group>
     <Group>
       <Id>Stalker</Id>
-      <DisplayName>Сталкер</DisplayName>
-      <Prefix>[Сталкер]</Prefix>
+      <DisplayName>Сталкер </DisplayName>
+      <Prefix>[Сталкер] </Prefix>
       <Suffix />
       <Color>FF9900</Color>
-      <Members>
-      </Members>
+      <Members />
       <ParentGroup>default</ParentGroup>
       <Priority>100</Priority>
       <Permissions>

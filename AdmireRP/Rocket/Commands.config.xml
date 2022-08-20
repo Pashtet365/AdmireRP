@@ -113,5 +113,11 @@
     <Command Name="LJ" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobs/LJ</Command>
     <Command Name="LJobs" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobs/LJobs</Command>
     <Command Name="ListJobs" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobs/ListJobs</Command>
+    <Command Name="rocketpermission" Enabled="true" Priority="Normal">Bloodstone.Plugins.RocketTools.CommandRPerm/rocketpermission</Command>
+    <Command Name="rp" Enabled="true" Priority="Normal">Bloodstone.Plugins.RocketTools.CommandRPerm/rp</Command>
+    <Command Name="rpermission" Enabled="true" Priority="Normal">Bloodstone.Plugins.RocketTools.CommandRPerm/rpermission</Command>
+    <Command Name="rperm" Enabled="true" Priority="Normal">Bloodstone.Plugins.RocketTools.CommandRPerm/rperm</Command>
+    <Command Name="rocketp" Enabled="true" Priority="Normal">Bloodstone.Plugins.RocketTools.CommandRPerm/rocketp</Command>
+    <Command Name="rocketperm" Enabled="true" Priority="Normal">Bloodstone.Plugins.RocketTools.CommandRPerm/rocketperm</Command>
   </Commands>
 </RocketCommands>
