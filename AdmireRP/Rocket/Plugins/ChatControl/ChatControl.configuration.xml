@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ChatControlConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AnnounceMute>true</AnnounceMute>
+  <AnnounceUnmute>true</AnnounceUnmute>
+  <Badwords>
+    <string>suck</string>
+    <string>fuck</string>
+    <string>ass</string>
+    <string>blame sven</string>
+  </Badwords>
+  <WarningsBeforeMute>3</WarningsBeforeMute>
+  <WarningsBeforeKick>5</WarningsBeforeKick>
+  <WarningsBeforeBan>-1</WarningsBeforeBan>
+  <BanDuration>3600</BanDuration>
+  <MessageColor>Yellow</MessageColor>
+</ChatControlConfiguration>

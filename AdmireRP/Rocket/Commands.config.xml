@@ -92,5 +92,7 @@
     <Command Name="unadmin" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandUnadmin/unadmin</Command>
     <Command Name="v" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandV/v</Command>
     <Command Name="vanish" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandVanish/vanish</Command>
+    <Command Name="unmute" Enabled="true" Priority="Normal">fr34kyn01535.ChatControl.CommandUnmute/unmute</Command>
+    <Command Name="mute" Enabled="true" Priority="Normal">fr34kyn01535.ChatControl.CommandMute/mute</Command>
   </Commands>
 </RocketCommands>

@@ -1,0 +1,37 @@
+[20.08.2022 18:20:43] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[20.08.2022 18:20:43] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[20.08.2022 18:20:43] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[20.08.2022 18:20:43] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[20.08.2022 18:20:43] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[20.08.2022 18:20:43] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[20.08.2022 18:20:43] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[20.08.2022 18:20:43] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[20.08.2022 18:20:43] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[20.08.2022 18:20:43] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[20.08.2022 18:20:43] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[20.08.2022 18:20:43] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[20.08.2022 18:20:43] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[20.08.2022 18:20:43] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[20.08.2022 18:20:43] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[20.08.2022 18:20:43] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[20.08.2022 18:20:43] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[20.08.2022 18:20:43] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[20.08.2022 18:20:43] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[20.08.2022 18:20:43] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[20.08.2022 18:20:43] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[20.08.2022 18:20:43] [Info] This server will automatically save every 1800 seconds
+[20.08.2022 18:20:44] [Info] Steam servers ready!
+[20.08.2022 18:20:44] [Info] Workshop install folder: D:\Steam\steamapps\common\U3DS/Servers/AdmireRP/Workshop/Steam
+[20.08.2022 18:20:44] [Info] 0 workshop item(s) requested
+[20.08.2022 18:20:44] [Info] Loading level: 8%
+[20.08.2022 18:20:45] [Info] Loading level: 16%
+[20.08.2022 18:20:46] [Info] Loading level: 25%
+[20.08.2022 18:20:46] [Info] Loading level: 33%
+[20.08.2022 18:20:46] [Info] Loading level: 41%
+[20.08.2022 18:20:46] [Info] Loading level: 50%
+[20.08.2022 18:20:46] [Info] Loading level: 58%
+[20.08.2022 18:20:46] [Info] Loading level: 66%
+[20.08.2022 18:20:46] [Info] Loading level: 75%
+[20.08.2022 18:20:46] [Info] Loading level: 83%
+[20.08.2022 18:20:46] [Info] Loading level: 91%
+[20.08.2022 18:20:46] [Info] Loading level: 100%
