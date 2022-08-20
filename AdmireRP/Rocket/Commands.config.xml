@@ -94,5 +94,24 @@
     <Command Name="vanish" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandVanish/vanish</Command>
     <Command Name="unmute" Enabled="true" Priority="Normal">fr34kyn01535.ChatControl.CommandUnmute/unmute</Command>
     <Command Name="mute" Enabled="true" Priority="Normal">fr34kyn01535.ChatControl.CommandMute/mute</Command>
+    <Command Name="AcceptJob" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobAccept/AcceptJob</Command>
+    <Command Name="AJ" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobAccept/AJ</Command>
+    <Command Name="AJob" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobAccept/AJob</Command>
+    <Command Name="AcceptJ" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobAccept/AcceptJ</Command>
+    <Command Name="JobAdmin" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobAdmin/JobAdmin</Command>
+    <Command Name="JA" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobAdmin/JA</Command>
+    <Command Name="JAdmin" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobAdmin/JAdmin</Command>
+    <Command Name="JobA" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobAdmin/JobA</Command>
+    <Command Name="LeaveJob" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobLeave/LeaveJob</Command>
+    <Command Name="LJ" Enabled="false" Priority="Normal">Rocket_Jobs.CommandJobLeave/LJ</Command>
+    <Command Name="LJob" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobLeave/LJob</Command>
+    <Command Name="LeaveJ" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobLeave/LeaveJ</Command>
+    <Command Name="JoinJob" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJoinApplyJob/JoinJob</Command>
+    <Command Name="JJ" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJoinApplyJob/JJ</Command>
+    <Command Name="JJob" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJoinApplyJob/JJob</Command>
+    <Command Name="Jobs" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobs/Jobs</Command>
+    <Command Name="LJ" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobs/LJ</Command>
+    <Command Name="LJobs" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobs/LJobs</Command>
+    <Command Name="ListJobs" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobs/ListJobs</Command>
   </Commands>
 </RocketCommands>
