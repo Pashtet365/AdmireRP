@@ -12,5 +12,5 @@
   <WarningsBeforeKick>5</WarningsBeforeKick>
   <WarningsBeforeBan>-1</WarningsBeforeBan>
   <BanDuration>3600</BanDuration>
-  <MessageColor>Yellow</MessageColor>
+  <MessageColor>Red</MessageColor>
 </ChatControlConfiguration>

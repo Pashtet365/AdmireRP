@@ -17,6 +17,8 @@
         <Permission Cooldown="0">joinjob</Permission>
         <Permission Cooldown="0">leavejob</Permission>
         <Permission Cooldown="0">acceptjob</Permission>
+        <Permission Cooldown="0">vk</Permission>
+        <Permission Cooldown="0">rules</Permission>
       </Permissions>
     </Group>
     <Group>

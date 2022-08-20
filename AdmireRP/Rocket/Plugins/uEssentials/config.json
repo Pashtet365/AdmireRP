@@ -1,5 +1,5 @@
 {
-  "Locale": "en",
+  "Locale": "ru",
   "PrivateMessage": {
     "FormatFrom": "(From {0}): {1}",
     "FormatTo": "(To {0}): {1}",
@@ -17,7 +17,7 @@
   "PollRunningMessageCooldown": 20,
   "ServerFrameRate": -1,
   "BackDelay": 10,
-  "ItemSpawnLimit": 10,
+  "ItemSpawnLimit": 15,
   "AntiSpam": {
     "Enabled": true,
     "Interval": 3
@@ -27,7 +27,7 @@
     "AlertOnJoin": true
   },
   "Home": {
-    "TeleportDelay": 5,
+    "TeleportDelay": 60,
     "CancelTeleportWhenMove": true
   },
   "Warp": {
@@ -52,11 +52,11 @@
   },
   "Tpa": {
     "CancelTeleportWhenMove": true,
-    "ExpireDelay": 10,
-    "TeleportDelay": 5
+    "ExpireDelay": 30,
+    "TeleportDelay": 30
   },
   "Economy": {
-    "UseXp": false,
+    "UseXp": true,
     "XpCurrency": "Xp",
     "UconomyCurrency": "$"
   },
@@ -79,7 +79,8 @@
         "Timer": 120,
         "Commands": [
           "say \"Be sure to drink your Ovaltine!\" 0 255 255",
-          "item * glue"
+          "item * glue",
+          "save"
         ]
       },
       {
@@ -93,7 +94,7 @@
     ],
     "Enabled": false
   },
-  "GiveItemBlacklist": [],
+  "GiveItemBlacklist": [1194],
   "VehicleBlacklist": [],
   "EnabledSystems": [
     "kits",
