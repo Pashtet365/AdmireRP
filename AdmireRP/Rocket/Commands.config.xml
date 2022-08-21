@@ -119,5 +119,20 @@
     <Command Name="rperm" Enabled="true" Priority="Normal">Bloodstone.Plugins.RocketTools.CommandRPerm/rperm</Command>
     <Command Name="rocketp" Enabled="true" Priority="Normal">Bloodstone.Plugins.RocketTools.CommandRPerm/rocketp</Command>
     <Command Name="rocketperm" Enabled="true" Priority="Normal">Bloodstone.Plugins.RocketTools.CommandRPerm/rocketperm</Command>
+    <Command Name="buy" Enabled="true" Priority="Normal">ZaupShop.CommandBuy/buy</Command>
+    <Command Name="cost" Enabled="true" Priority="Normal">ZaupShop.CommandCost/cost</Command>
+    <Command Name="sell" Enabled="true" Priority="Normal">ZaupShop.CommandSell/sell</Command>
+    <Command Name="shop" Enabled="true" Priority="Normal">ZaupShop.CommandShop/shop</Command>
+    <Command Name="balance" Enabled="true" Priority="Normal">fr34kyn01535.Uconomy.CommandBalance/balance</Command>
+    <Command Name="pay" Enabled="true" Priority="Normal">fr34kyn01535.Uconomy.CommandPay/pay</Command>
+    <Command Name="list" Enabled="true" Priority="Normal">Freenex.FeexRanks.Commands.CommandList/list</Command>
+    <Command Name="points" Enabled="true" Priority="Normal">Freenex.FeexRanks.Commands.CommandPoints/points</Command>
+    <Command Name="rank" Enabled="true" Priority="Normal">Freenex.FeexRanks.Commands.CommandRank/rank</Command>
+    <Command Name="DutyCheck" Enabled="true" Priority="Normal">EFG.Duty.CommandDutycheck/DutyCheck</Command>
+    <Command Name="dc" Enabled="true" Priority="Normal">EFG.Duty.CommandDutycheck/dc</Command>
+    <Command Name="duty" Enabled="true" Priority="Normal">EFG.Duty.CommandDuty/duty</Command>
+    <Command Name="d" Enabled="true" Priority="Normal">EFG.Duty.CommandDuty/d</Command>
+    <Command Name="apay" Enabled="true" Priority="Normal">ZaupUconomyEssentials.CommandApay/apay</Command>
+    <Command Name="exchange" Enabled="true" Priority="Normal">ZaupUconomyEssentials.CommandExchange/exchange</Command>
   </Commands>
 </RocketCommands>

@@ -1,0 +1,85 @@
+[21.08.2022 8:49:25] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[21.08.2022 8:49:26] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[21.08.2022 8:49:26] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[21.08.2022 8:49:26] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[21.08.2022 8:49:26] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[21.08.2022 8:49:26] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[21.08.2022 8:49:26] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[21.08.2022 8:49:26] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[21.08.2022 8:49:26] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[21.08.2022 8:49:26] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[21.08.2022 8:49:26] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[21.08.2022 8:49:26] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[21.08.2022 8:49:26] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[21.08.2022 8:49:26] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[21.08.2022 8:49:26] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[21.08.2022 8:49:26] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[21.08.2022 8:49:26] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[21.08.2022 8:49:26] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[21.08.2022 8:49:26] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[21.08.2022 8:49:26] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[21.08.2022 8:49:26] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[21.08.2022 8:49:26] [Info] Loading ChatControl from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\ChatControl.dll
+[21.08.2022 8:49:26] [Info] Loading RocketJobs from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\RocketJobs.dll
+[21.08.2022 8:49:26] [Info] Loading RocketTools from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\RocketTools.dll
+[21.08.2022 8:49:26] [Info] Loading Uconomy from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\Uconomy.dll
+[21.08.2022 8:49:26] [Info] Loading uEssentials from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\uEssentials.dll
+[21.08.2022 8:49:27] [Info] 
+[loading] ChatControl
+[21.08.2022 8:49:27] [Info] [registered] /unmute (fr34kyn01535.ChatControl.CommandUnmute/unmute)
+[21.08.2022 8:49:27] [Info] [registered] /mute (fr34kyn01535.ChatControl.CommandMute/mute)
+[21.08.2022 8:49:27] [Info] UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: ChatControlPlayerComponent
+[21.08.2022 8:49:27] [Info] 
+[loading] RocketJobs
+[21.08.2022 8:49:27] [Info] [registered] /acceptjob (Rocket_Jobs.CommandJobAccept/AcceptJob)
+[21.08.2022 8:49:27] [Info] [registered] /aj (Rocket_Jobs.CommandJobAccept/AJ)
+[21.08.2022 8:49:27] [Info] [registered] /ajob (Rocket_Jobs.CommandJobAccept/AJob)
+[21.08.2022 8:49:27] [Info] [registered] /acceptj (Rocket_Jobs.CommandJobAccept/AcceptJ)
+[21.08.2022 8:49:27] [Info] [registered] /jobadmin (Rocket_Jobs.CommandJobAdmin/JobAdmin)
+[21.08.2022 8:49:27] [Info] [registered] /ja (Rocket_Jobs.CommandJobAdmin/JA)
+[21.08.2022 8:49:27] [Info] [registered] /jadmin (Rocket_Jobs.CommandJobAdmin/JAdmin)
+[21.08.2022 8:49:27] [Info] [registered] /joba (Rocket_Jobs.CommandJobAdmin/JobA)
+[21.08.2022 8:49:27] [Info] [registered] /leavejob (Rocket_Jobs.CommandJobLeave/LeaveJob)
+[21.08.2022 8:49:27] [Info] [registered] /ljob (Rocket_Jobs.CommandJobLeave/LJob)
+[21.08.2022 8:49:27] [Info] [registered] /leavej (Rocket_Jobs.CommandJobLeave/LeaveJ)
+[21.08.2022 8:49:27] [Info] [registered] /joinjob (Rocket_Jobs.CommandJoinApplyJob/JoinJob)
+[21.08.2022 8:49:27] [Info] [registered] /jj (Rocket_Jobs.CommandJoinApplyJob/JJ)
+[21.08.2022 8:49:27] [Info] [registered] /jjob (Rocket_Jobs.CommandJoinApplyJob/JJob)
+[21.08.2022 8:49:27] [Info] [registered] /jobs (Rocket_Jobs.CommandJobs/Jobs)
+[21.08.2022 8:49:27] [Info] [registered] /lj (Rocket_Jobs.CommandJobs/LJ)
+[21.08.2022 8:49:27] [Info] [registered] /ljobs (Rocket_Jobs.CommandJobs/LJobs)
+[21.08.2022 8:49:27] [Info] [registered] /listjobs (Rocket_Jobs.CommandJobs/ListJobs)
+[21.08.2022 8:49:27] [Info] RocketJobs >> Jobs, build #6 has been loaded!
+[21.08.2022 8:49:27] [Info] 
+[loading] RocketTools
+[21.08.2022 8:49:27] [Info] [registered] /rocketpermission (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketpermission)
+[21.08.2022 8:49:27] [Info] [registered] /rp (Bloodstone.Plugins.RocketTools.CommandRPerm/rp)
+[21.08.2022 8:49:27] [Info] [registered] /rpermission (Bloodstone.Plugins.RocketTools.CommandRPerm/rpermission)
+[21.08.2022 8:49:27] [Info] [registered] /rperm (Bloodstone.Plugins.RocketTools.CommandRPerm/rperm)
+[21.08.2022 8:49:27] [Info] [registered] /rocketp (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketp)
+[21.08.2022 8:49:27] [Info] [registered] /rocketperm (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketperm)
+[21.08.2022 8:49:27] [Warning] RocketTools by persiafighter, build #4 has been loaded!
+[21.08.2022 8:49:27] [Info] 
+[loading] Uconomy
+[21.08.2022 8:49:27] [Info] [registered] /balance (fr34kyn01535.Uconomy.CommandBalance/balance)
+[21.08.2022 8:49:27] [Info] [registered] /pay (fr34kyn01535.Uconomy.CommandPay/pay)
+[21.08.2022 8:49:27] [Info] 
+[loading] uEssentials
+[21.08.2022 8:49:27] [Info] This server will automatically save every 1800 seconds
+[21.08.2022 8:49:27] [Info] Steam servers ready!
+[21.08.2022 8:49:27] [Info] Workshop install folder: D:\Steam\steamapps\common\U3DS/Servers/AdmireRP/Workshop/Steam
+[21.08.2022 8:49:27] [Info] 0 workshop item(s) requested
+[21.08.2022 8:49:27] [Info] Loading level: 8%
+[21.08.2022 8:49:28] [Info] Loading level: 16%
+[21.08.2022 8:49:28] [Info] Loading level: 25%
+[21.08.2022 8:49:28] [Info] Loading level: 33%
+[21.08.2022 8:49:28] [Info] Loading level: 41%
+[21.08.2022 8:49:28] [Info] Loading level: 50%
+[21.08.2022 8:49:28] [Info] Loading level: 58%
+[21.08.2022 8:49:28] [Info] Loading level: 66%
+[21.08.2022 8:49:28] [Info] Loading level: 75%
+[21.08.2022 8:49:28] [Info] Loading level: 83%
+[21.08.2022 8:49:28] [Info] Loading level: 91%
+[21.08.2022 8:49:28] [Info] Loading level: 100%
+[21.08.2022 9:01:43] [Info] 
+[unloading] RocketJobs

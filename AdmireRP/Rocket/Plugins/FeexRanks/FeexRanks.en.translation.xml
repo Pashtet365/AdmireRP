@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="general_onjoin" Value="[{2}] {3} ({0} points, rank {1}) connected to the server." />
+  <Translation Id="general_onleave" Value="[{2}] {3} ({0} points, rank {1}) disconnected from the server." />
+  <Translation Id="general_not_found" Value="Player not found." />
+  <Translation Id="general_invalid_parameter" Value="Invalid parameter." />
+  <Translation Id="rank_self" Value="Your current rank: {1} with {0} points [{2}]" />
+  <Translation Id="rank_other" Value="{3}'s current rank: {1} with {0} points [{2}]" />
+  <Translation Id="ranking_empty" Value="Ranking is empty." />
+  <Translation Id="nan" Value="{0} is not a number." />
+  <Translation Id="list_1" Value="The top 3 players:" />
+  <Translation Id="list_2" Value="{1}st: [{2}] {3} ({0} points)" />
+  <Translation Id="list_3" Value="{1}nd: [{2}] {3} ({0} points)" />
+  <Translation Id="list_4" Value="{1}rd: [{2}] {3} ({0} points)" />
+  <Translation Id="list_search" Value="Rank {1}: [{2}] {3} ({0} points)" />
+  <Translation Id="list_search_not_found" Value="Rank not found." />
+  <Translation Id="points_reset_player" Value="Your points have been reset." />
+  <Translation Id="points_reset_caller" Value="{0}'s points have been reset." />
+  <Translation Id="points_set_player" Value="Your points have been set to {0}." />
+  <Translation Id="points_set_caller" Value="{1}'s points have been set to {0}." />
+  <Translation Id="points_add_player" Value="You received {0} points." />
+  <Translation Id="points_add_caller" Value="You sent {0} points to {1}." />
+  <Translation Id="points_remove_player" Value="You lost {0} points." />
+  <Translation Id="points_remove_caller" Value="You removed {0} points from {1}." />
+  <Translation Id="level_up" Value="You went up: {1} with {0} points." />
+  <Translation Id="level_up_kit" Value="You went up and received the kit {0}." />
+  <Translation Id="level_up_rank" Value="You went up and recieved the permission rank {0}." />
+  <Translation Id="level_up_uconomy" Value="You went up and received {0}." />
+  <Translation Id="level_up_global" Value="{2} went up: {1} with {0} points." />
+  <Translation Id="event_ACCURACY" Value="You received {0} points. ({1} points)" />
+  <Translation Id="event_ARENA_WINS" Value="You received {0} points. ({1} points)" />
+  <Translation Id="event_DEATHS_PLAYERS" Value="You received {0} points. ({1} points)" />
+  <Translation Id="event_FOUND_BUILDABLES" Value="You received {0} points. ({1} points)" />
+  <Translation Id="event_FOUND_CRAFTS" Value="You received {0} points. ({1} points)" />
+  <Translation Id="event_FOUND_EXPERIENCE" Value="You received {0} points. ({1} points)" />
+  <Translation Id="event_FOUND_FISHES" Value="You received {0} points. ({1} points)" />
+  <Translation Id="event_FOUND_ITEMS" Value="You received {0} points. ({1} points)" />
+  <Translation Id="event_FOUND_PLANTS" Value="You received {0} points. ({1} points)" />
+  <Translation Id="event_FOUND_RESOURCES" Value="You received {0} points. ({1} points)" />
+  <Translation Id="event_FOUND_THROWABLES" Value="You received {0} points. ({1} points)" />
+  <Translation Id="event_HEADSHOTS" Value="You received {0} points. ({1} points)" />
+  <Translation Id="event_KILLS_ANIMALS" Value="You received {0} points. ({1} points)" />
+  <Translation Id="event_KILLS_PLAYERS" Value="You received {0} points. ({1} points)" />
+  <Translation Id="event_KILLS_ZOMBIES_MEGA" Value="You received {0} points. ({1} points)" />
+  <Translation Id="event_KILLS_ZOMBIES_NORMAL" Value="You received {0} points. ({1} points)" />
+  <Translation Id="event_NONE" Value="You received {0} points. ({1} points)" />
+  <Translation Id="event_TRAVEL_FOOT" Value="You received {0} points. ({1} points)" />
+  <Translation Id="event_TRAVEL_VEHICLE" Value="You received {0} points. ({1} points)" />
+</Translations>

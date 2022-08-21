@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FeexRanksConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EnableLevelUpNotification>false</EnableLevelUpNotification>
+  <EnableLevelUpNotificationGlobal>true</EnableLevelUpNotificationGlobal>
+  <EnableRankNotificationOnJoin>true</EnableRankNotificationOnJoin>
+  <EnableRankNotificationOnJoinGlobal>false</EnableRankNotificationOnJoinGlobal>
+  <EnableRankNotificationOnLeaveGlobal>false</EnableRankNotificationOnLeaveGlobal>
+  <NotificationColor>Green</NotificationColor>
+  <NotificationColorGlobal>Gray</NotificationColorGlobal>
+  <NotificationColorJoinLeaveGlobal>Green</NotificationColorJoinLeaveGlobal>
+  <FeexRanksDatabaseConfig>
+    <DatabaseAddress>127.0.0.1</DatabaseAddress>
+    <DatabaseUsername>unturned</DatabaseUsername>
+    <DatabasePassword>password</DatabasePassword>
+    <DatabaseName>unturned</DatabaseName>
+    <DatabaseTableName>ranks</DatabaseTableName>
+    <DatabasePort>3306</DatabasePort>
+  </FeexRanksDatabaseConfig>
+  <Events>
+    <Event>
+      <EventName>KILLS_ZOMBIES_NORMAL</EventName>
+      <Notify>false</Notify>
+      <Points>10</Points>
+    </Event>
+    <Event>
+      <EventName>KILLS_ZOMBIES_MEGA</EventName>
+      <Notify>true</Notify>
+      <Points>50</Points>
+    </Event>
+    <Event>
+      <EventName>KILLS_PLAYERS</EventName>
+      <Notify>true</Notify>
+      <Points>60</Points>
+    </Event>
+  </Events>
+  <Level>
+    <Level>
+      <Points>0</Points>
+      <Name>Pig</Name>
+      <KitReward>false</KitReward>
+      <KitNotify>true</KitNotify>
+      <KitName />
+      <PermissionGroupReward>false</PermissionGroupReward>
+      <PermissionGroupNotify>true</PermissionGroupNotify>
+      <PermissionGroupName />
+      <UconomyReward>false</UconomyReward>
+      <UconomyNotify>true</UconomyNotify>
+      <UconomyAmount>0</UconomyAmount>
+    </Level>
+    <Level>
+      <Points>100</Points>
+      <Name>Small Zombie</Name>
+      <KitReward>false</KitReward>
+      <KitNotify>true</KitNotify>
+      <KitName />
+      <PermissionGroupReward>false</PermissionGroupReward>
+      <PermissionGroupNotify>true</PermissionGroupNotify>
+      <PermissionGroupName />
+      <UconomyReward>true</UconomyReward>
+      <UconomyNotify>true</UconomyNotify>
+      <UconomyAmount>100</UconomyAmount>
+    </Level>
+    <Level>
+      <Points>200</Points>
+      <Name>Zombie</Name>
+      <KitReward>true</KitReward>
+      <KitNotify>true</KitNotify>
+      <KitName>Zombie</KitName>
+      <PermissionGroupReward>false</PermissionGroupReward>
+      <PermissionGroupNotify>true</PermissionGroupNotify>
+      <PermissionGroupName />
+      <UconomyReward>false</UconomyReward>
+      <UconomyNotify>true</UconomyNotify>
+      <UconomyAmount>0</UconomyAmount>
+    </Level>
+    <Level>
+      <Points>500</Points>
+      <Name>Giant Zombie</Name>
+      <KitReward>true</KitReward>
+      <KitNotify>true</KitNotify>
+      <KitName>Giant Zombie</KitName>
+      <PermissionGroupReward>true</PermissionGroupReward>
+      <PermissionGroupNotify>true</PermissionGroupNotify>
+      <PermissionGroupName>VIP</PermissionGroupName>
+      <UconomyReward>true</UconomyReward>
+      <UconomyNotify>false</UconomyNotify>
+      <UconomyAmount>200</UconomyAmount>
+    </Level>
+  </Level>
+</FeexRanksConfiguration>
