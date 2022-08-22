@@ -188,3 +188,6 @@
   at MySql.Data.MySqlClient.MySqlPool.GetConnection () [0x0001c] in <4f93ec5cee7d499da6a85a364813afe3>:0 
   at MySql.Data.MySqlClient.MySqlConnection.Open () [0x001f6] in <4f93ec5cee7d499da6a85a364813afe3>:0 
   at Freenex.FeexRanks.Database.DatabaseManager.ExecuteQuery (Freenex.FeexRanks.Database.EQueryType queryType, System.String query, MySql.Data.MySqlClient.MySqlParameter[] parameters) [0x00044] in <7615aedcb027464da545a4192a287b00>:0 
+[21.08.2022 12:20:10] [Info] [Бандит] Incognit [Инкогнит] dehydrated to death!
+[21.08.2022 12:21:24] [Info] Broadcast: admin_logout_message
+[21.08.2022 12:21:24] [Info] Broadcast: admin_logout_message
