@@ -12,15 +12,15 @@
   <PayHit>false</PayHit>
   <PayHitAmt>1</PayHitAmt>
   <SendPayHitMsg>true</SendPayHitMsg>
-  <LoseSuicide>false</LoseSuicide>
-  <LoseSuicideAmt>1</LoseSuicideAmt>
-  <ExpExchange>false</ExpExchange>
-  <ExpExchangerate>0.5</ExpExchangerate>
-  <MoneyExchange>false</MoneyExchange>
-  <MoneyExchangerate>0.5</MoneyExchangerate>
-  <LoseMoneyOnDeath>false</LoseMoneyOnDeath>
+  <LoseSuicide>true</LoseSuicide>
+  <LoseSuicideAmt>10</LoseSuicideAmt>
+  <ExpExchange>true</ExpExchange>
+  <ExpExchangerate>1</ExpExchangerate>
+  <MoneyExchange>true</MoneyExchange>
+  <MoneyExchangerate>1</MoneyExchangerate>
+  <LoseMoneyOnDeath>true</LoseMoneyOnDeath>
   <LoseMoneyOnDeathAmt>10</LoseMoneyOnDeathAmt>
-  <PayZombie>false</PayZombie>
+  <PayZombie>true</PayZombie>
   <PayZombieAmt>0.5</PayZombieAmt>
   <SendPayZombieMsg>true</SendPayZombieMsg>
   <PayMegaZombie>false</PayMegaZombie>

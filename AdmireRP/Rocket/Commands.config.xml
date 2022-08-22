@@ -134,5 +134,14 @@
     <Command Name="d" Enabled="true" Priority="Normal">EFG.Duty.CommandDuty/d</Command>
     <Command Name="apay" Enabled="true" Priority="Normal">ZaupUconomyEssentials.CommandApay/apay</Command>
     <Command Name="exchange" Enabled="true" Priority="Normal">ZaupUconomyEssentials.CommandExchange/exchange</Command>
+    <Command Name="g" Enabled="true" Priority="Normal">OOC.CommandGlobalOOC/g</Command>
+    <Command Name="gooc" Enabled="true" Priority="Normal">OOC.CommandGlobalOOC/gooc</Command>
+    <Command Name="globalooc" Enabled="true" Priority="Normal">OOC.CommandGlobalOOC/globalooc</Command>
+    <Command Name="b" Enabled="true" Priority="Normal">OOC.CommandOOC/b</Command>
+    <Command Name="ooc" Enabled="true" Priority="Normal">OOC.CommandOOC/ooc</Command>
+    <Command Name="localooc" Enabled="true" Priority="Normal">OOC.CommandOOC/localooc</Command>
+    <Command Name="sms" Enabled="true" Priority="Normal">Ryan-_-Borland_Protector_v1ARyan-_-Borland_Protector_v1/sms</Command>
+    <Command Name="do" Enabled="true" Priority="Normal">Ryan-_-Borland_Protector_v1eRyan-_-Borland_Protector_v1/do</Command>
+    <Command Name="nrp" Enabled="true" Priority="Normal">Ryan-_-Borland_Protector_v1ERyan-_-Borland_Protector_v1/nrp</Command>
   </Commands>
 </RocketCommands>

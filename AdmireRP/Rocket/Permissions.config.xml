@@ -81,8 +81,34 @@
     </Group>
     <Group>
       <Id>Military</Id>
-      <DisplayName>Военный</DisplayName>
-      <Prefix />
+      <DisplayName>Военный </DisplayName>
+      <Prefix>Военный </Prefix>
+      <Suffix />
+      <Color>FF9900</Color>
+      <Members />
+      <ParentGroup>default</ParentGroup>
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="0">compass</Permission>
+      </Permissions>
+    </Group>
+    <Group>
+      <Id>creator</Id>
+      <DisplayName>Создатель</DisplayName>
+      <Prefix>Создатель </Prefix>
+      <Suffix />
+      <Color>FF9900</Color>
+      <Members />
+      <ParentGroup>default</ParentGroup>
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="0">compass</Permission>
+      </Permissions>
+    </Group>
+    <Group>
+      <Id>Mainadmine</Id>
+      <DisplayName>Главный Администратор </DisplayName>
+      <Prefix>Главный Администратор </Prefix>
       <Suffix />
       <Color>FF9900</Color>
       <Members />

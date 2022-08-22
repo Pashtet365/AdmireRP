@@ -1,0 +1,204 @@
+[21.08.2022 19:17:20] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[21.08.2022 19:17:20] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[21.08.2022 19:17:20] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[21.08.2022 19:17:20] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[21.08.2022 19:17:20] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[21.08.2022 19:17:20] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[21.08.2022 19:17:20] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[21.08.2022 19:17:20] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[21.08.2022 19:17:20] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[21.08.2022 19:17:20] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[21.08.2022 19:17:20] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[21.08.2022 19:17:20] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[21.08.2022 19:17:20] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[21.08.2022 19:17:20] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[21.08.2022 19:17:20] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[21.08.2022 19:17:20] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[21.08.2022 19:17:20] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[21.08.2022 19:17:20] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[21.08.2022 19:17:20] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[21.08.2022 19:17:20] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[21.08.2022 19:17:20] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[21.08.2022 19:17:20] [Info] Loading ChatControl from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\ChatControl.dll
+[21.08.2022 19:17:20] [Info] Loading Duty from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\Duty.dll
+[21.08.2022 19:17:20] [Info] Loading FeexRanks from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\FeexRanks.dll
+[21.08.2022 19:17:20] [Info] Loading RocketJobs from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\RocketJobs.dll
+[21.08.2022 19:17:20] [Info] Loading RocketTools from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\RocketTools.dll
+[21.08.2022 19:17:20] [Info] Loading Uconomy from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\Uconomy.dll
+[21.08.2022 19:17:20] [Info] Loading uEssentials from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\uEssentials.dll
+[21.08.2022 19:17:20] [Info] Loading ZaupUconomyEssentials from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\ZaupUconomyEssentials.dll
+[21.08.2022 19:17:22] [Info] 
+[loading] ChatControl
+[21.08.2022 19:17:22] [Info] [registered] /unmute (fr34kyn01535.ChatControl.CommandUnmute/unmute)
+[21.08.2022 19:17:22] [Info] [registered] /mute (fr34kyn01535.ChatControl.CommandMute/mute)
+[21.08.2022 19:17:22] [Info] UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: ChatControlPlayerComponent
+[21.08.2022 19:17:22] [Info] 
+[loading] Duty
+[21.08.2022 19:17:22] [Info] [registered] /dutycheck (EFG.Duty.CommandDutycheck/DutyCheck)
+[21.08.2022 19:17:22] [Info] [registered] /dc (EFG.Duty.CommandDutycheck/dc)
+[21.08.2022 19:17:22] [Info] [registered] /duty (EFG.Duty.CommandDuty/duty)
+[21.08.2022 19:17:22] [Info] [registered] /d (EFG.Duty.CommandDuty/d)
+[21.08.2022 19:17:22] [Warning] Loading event "Player Connected"...
+[21.08.2022 19:17:22] [Warning] Loading event "Player Disconnected"...
+[21.08.2022 19:17:22] [Warning] 
+[21.08.2022 19:17:22] [Warning] Duty has been successfully loaded!
+[21.08.2022 19:17:22] [Info] 
+[loading] FeexRanks
+[21.08.2022 19:17:22] [Info] [registered] /list (Freenex.FeexRanks.Commands.CommandList/list)
+[21.08.2022 19:17:22] [Info] [registered] /points (Freenex.FeexRanks.Commands.CommandPoints/points)
+[21.08.2022 19:17:22] [Info] [registered] /rank (Freenex.FeexRanks.Commands.CommandRank/rank)
+[21.08.2022 19:17:22] [Error] Could not find dependency: MySql.Data.resources, Version=8.0.18.0, Culture=ru-RU, PublicKeyToken=c5687fc88969c44d
+[21.08.2022 19:17:22] [Error] Could not find dependency: MySql.Data.resources, Version=8.0.18.0, Culture=ru, PublicKeyToken=c5687fc88969c44d
+[21.08.2022 19:17:22] [Error] FeexRanks >> Exception in FeexRanks: MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '127.0.0.1' for user 'unturned' using method 'mysql_native_password' failed with message: Access denied for user 'unturned'@'localhost' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'unturned'@'localhost' (using password: YES)
+  at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00096] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.ReadPacket () [0x00000] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x00000] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed (System.Exception ex) [0x0003f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x0000f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate (System.Boolean reset) [0x00097] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Authenticate (System.String authMethod, System.Boolean reset) [0x0002a] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Open () [0x00360] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Driver.Open () [0x0000e] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Driver.Create (MySql.Data.MySqlClient.MySqlConnectionStringBuilder settings) [0x0004e] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection () [0x00006] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection () [0x0008a] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver () [0x0003f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.GetConnection () [0x0001c] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlConnection.Open () [0x001f6] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at Freenex.FeexRanks.Database.DatabaseManager.ExecuteQuery (Freenex.FeexRanks.Database.EQueryType queryType, System.String query, MySql.Data.MySqlClient.MySqlParameter[] parameters) [0x00044] in <7615aedcb027464da545a4192a287b00>:0 
+[21.08.2022 19:17:22] [Error] FeexRanks >> Exception in FeexRanks: MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '127.0.0.1' for user 'unturned' using method 'mysql_native_password' failed with message: Access denied for user 'unturned'@'localhost' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'unturned'@'localhost' (using password: YES)
+  at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00096] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.ReadPacket () [0x00000] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x00000] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed (System.Exception ex) [0x0003f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x0000f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate (System.Boolean reset) [0x00097] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Authenticate (System.String authMethod, System.Boolean reset) [0x0002a] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Open () [0x00360] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Driver.Open () [0x0000e] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Driver.Create (MySql.Data.MySqlClient.MySqlConnectionStringBuilder settings) [0x0004e] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection () [0x00006] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection () [0x0008a] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver () [0x0003f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.GetConnection () [0x0001c] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlConnection.Open () [0x001f6] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at Freenex.FeexRanks.Database.DatabaseManager.ExecuteQuery (Freenex.FeexRanks.Database.EQueryType queryType, System.String query, MySql.Data.MySqlClient.MySqlParameter[] parameters) [0x00044] in <7615aedcb027464da545a4192a287b00>:0 
+[21.08.2022 19:17:22] [Info] Freenex's FeexRanks has been loaded!
+[21.08.2022 19:17:22] [Info] 
+[loading] RocketJobs
+[21.08.2022 19:17:22] [Info] [registered] /acceptjob (Rocket_Jobs.CommandJobAccept/AcceptJob)
+[21.08.2022 19:17:22] [Info] [registered] /aj (Rocket_Jobs.CommandJobAccept/AJ)
+[21.08.2022 19:17:22] [Info] [registered] /ajob (Rocket_Jobs.CommandJobAccept/AJob)
+[21.08.2022 19:17:22] [Info] [registered] /acceptj (Rocket_Jobs.CommandJobAccept/AcceptJ)
+[21.08.2022 19:17:22] [Info] [registered] /jobadmin (Rocket_Jobs.CommandJobAdmin/JobAdmin)
+[21.08.2022 19:17:22] [Info] [registered] /ja (Rocket_Jobs.CommandJobAdmin/JA)
+[21.08.2022 19:17:22] [Info] [registered] /jadmin (Rocket_Jobs.CommandJobAdmin/JAdmin)
+[21.08.2022 19:17:22] [Info] [registered] /joba (Rocket_Jobs.CommandJobAdmin/JobA)
+[21.08.2022 19:17:22] [Info] [registered] /leavejob (Rocket_Jobs.CommandJobLeave/LeaveJob)
+[21.08.2022 19:17:22] [Info] [registered] /ljob (Rocket_Jobs.CommandJobLeave/LJob)
+[21.08.2022 19:17:22] [Info] [registered] /leavej (Rocket_Jobs.CommandJobLeave/LeaveJ)
+[21.08.2022 19:17:22] [Info] [registered] /joinjob (Rocket_Jobs.CommandJoinApplyJob/JoinJob)
+[21.08.2022 19:17:22] [Info] [registered] /jj (Rocket_Jobs.CommandJoinApplyJob/JJ)
+[21.08.2022 19:17:22] [Info] [registered] /jjob (Rocket_Jobs.CommandJoinApplyJob/JJob)
+[21.08.2022 19:17:22] [Info] [registered] /jobs (Rocket_Jobs.CommandJobs/Jobs)
+[21.08.2022 19:17:22] [Info] [registered] /lj (Rocket_Jobs.CommandJobs/LJ)
+[21.08.2022 19:17:22] [Info] [registered] /ljobs (Rocket_Jobs.CommandJobs/LJobs)
+[21.08.2022 19:17:22] [Info] [registered] /listjobs (Rocket_Jobs.CommandJobs/ListJobs)
+[21.08.2022 19:17:22] [Info] RocketJobs >> Jobs, build #6 has been loaded!
+[21.08.2022 19:17:22] [Info] 
+[loading] RocketTools
+[21.08.2022 19:17:22] [Info] [registered] /rocketpermission (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketpermission)
+[21.08.2022 19:17:22] [Info] [registered] /rp (Bloodstone.Plugins.RocketTools.CommandRPerm/rp)
+[21.08.2022 19:17:22] [Info] [registered] /rpermission (Bloodstone.Plugins.RocketTools.CommandRPerm/rpermission)
+[21.08.2022 19:17:22] [Info] [registered] /rperm (Bloodstone.Plugins.RocketTools.CommandRPerm/rperm)
+[21.08.2022 19:17:22] [Info] [registered] /rocketp (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketp)
+[21.08.2022 19:17:22] [Info] [registered] /rocketperm (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketperm)
+[21.08.2022 19:17:22] [Warning] RocketTools by persiafighter, build #4 has been loaded!
+[21.08.2022 19:17:22] [Info] 
+[loading] Uconomy
+[21.08.2022 19:17:22] [Info] [registered] /balance (fr34kyn01535.Uconomy.CommandBalance/balance)
+[21.08.2022 19:17:22] [Info] [registered] /pay (fr34kyn01535.Uconomy.CommandPay/pay)
+[21.08.2022 19:17:22] [Info] 
+[loading] uEssentials
+[21.08.2022 19:17:22] [Info] 
+[loading] ZaupUconomyEssentials
+[21.08.2022 19:17:22] [Info] [registered] /apay (ZaupUconomyEssentials.CommandApay/apay)
+[21.08.2022 19:17:22] [Info] [registered] /exchange (ZaupUconomyEssentials.CommandExchange/exchange)
+[21.08.2022 19:17:22] [Info] UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: PlayerUe
+[21.08.2022 19:17:22] [Info] This server will automatically save every 1800 seconds
+[21.08.2022 19:17:22] [Info] Steam servers ready!
+[21.08.2022 19:17:22] [Info] Workshop install folder: D:\Steam\steamapps\common\U3DS/Servers/AdmireRP/Workshop/Steam
+[21.08.2022 19:17:22] [Info] 0 workshop item(s) requested
+[21.08.2022 19:17:22] [Info] Loading level: 8%
+[21.08.2022 19:17:23] [Info] Loading level: 16%
+[21.08.2022 19:17:23] [Info] Loading level: 25%
+[21.08.2022 19:17:23] [Info] Loading level: 33%
+[21.08.2022 19:17:23] [Info] Loading level: 41%
+[21.08.2022 19:17:23] [Info] Loading level: 50%
+[21.08.2022 19:17:23] [Info] Loading level: 58%
+[21.08.2022 19:17:23] [Info] Loading level: 66%
+[21.08.2022 19:17:23] [Info] Loading level: 75%
+[21.08.2022 19:17:23] [Info] Loading level: 83%
+[21.08.2022 19:17:23] [Info] Loading level: 91%
+[21.08.2022 19:17:23] [Info] Loading level: 100%
+[21.08.2022 19:23:15] [Info] Connecting: PlayerID: 76561198840708393 Name: Инкогнит Character: [Бандит] Incognit
+[21.08.2022 19:23:34] [Info] Broadcast: [Бандит] Incognit has logged on and is now on duty.
+[21.08.2022 19:23:34] [Error] FeexRanks >> Exception in FeexRanks: MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '127.0.0.1' for user 'unturned' using method 'mysql_native_password' failed with message: Access denied for user 'unturned'@'localhost' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'unturned'@'localhost' (using password: YES)
+  at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00096] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.ReadPacket () [0x00000] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x00000] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed (System.Exception ex) [0x0003f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x0000f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate (System.Boolean reset) [0x00097] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Authenticate (System.String authMethod, System.Boolean reset) [0x0002a] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Open () [0x00360] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Driver.Open () [0x0000e] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Driver.Create (MySql.Data.MySqlClient.MySqlConnectionStringBuilder settings) [0x0004e] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection () [0x00006] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection () [0x0008a] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver () [0x0003f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.GetConnection () [0x0001c] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlConnection.Open () [0x001f6] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at Freenex.FeexRanks.Database.DatabaseManager.ExecuteQuery (Freenex.FeexRanks.Database.EQueryType queryType, System.String query, MySql.Data.MySqlClient.MySqlParameter[] parameters) [0x00044] in <7615aedcb027464da545a4192a287b00>:0 
+[21.08.2022 19:23:34] [Error] Error in MulticastDelegate PlayerConnected: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Freenex.FeexRanks.FeexRanks.Events_OnPlayerConnected (Rocket.Unturned.Player.UnturnedPlayer player) [0x00058] in <7615aedcb027464da545a4192a287b00>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <695d1cc93cca45069c528c15c9fdd749>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at Rocket.Core.Extensions.MulticastDelegateExtension.TryInvoke (System.MulticastDelegate theDelegate, System.Object[] args) [0x00013] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+[21.08.2022 19:23:34] [Error] FeexRanks >> Exception in FeexRanks: MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '127.0.0.1' for user 'unturned' using method 'mysql_native_password' failed with message: Access denied for user 'unturned'@'localhost' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'unturned'@'localhost' (using password: YES)
+  at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00096] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.ReadPacket () [0x00000] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x00000] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed (System.Exception ex) [0x0003f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x0000f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate (System.Boolean reset) [0x00097] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Authenticate (System.String authMethod, System.Boolean reset) [0x0002a] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Open () [0x00360] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Driver.Open () [0x0000e] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Driver.Create (MySql.Data.MySqlClient.MySqlConnectionStringBuilder settings) [0x0004e] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection () [0x00006] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection () [0x0008a] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver () [0x0003f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.GetConnection () [0x0001c] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlConnection.Open () [0x001f6] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at Freenex.FeexRanks.Database.DatabaseManager.ExecuteQuery (Freenex.FeexRanks.Database.EQueryType queryType, System.String query, MySql.Data.MySqlClient.MySqlParameter[] parameters) [0x00044] in <7615aedcb027464da545a4192a287b00>:0 
+[21.08.2022 19:23:34] [Info] [World] [Бандит] Incognit [Инкогнит]: "/day"
+[21.08.2022 19:23:38] [Info] Successfully set time to day!
+[21.08.2022 19:23:38] [Info] [World] [Бандит] Incognit [Инкогнит]: "/p"
+[21.08.2022 19:23:53] [Info] [World] [Бандит] Incognit [Инкогнит]: "/jobs"
+[21.08.2022 19:23:59] [Info] [World] [Бандит] Incognit [Инкогнит]: "/jobs public"
+[21.08.2022 19:24:33] [Info] [World] [Бандит] Incognit [Инкогнит]: "/jobs public"
+[21.08.2022 19:24:40] [Info] [World] [Бандит] Incognit [Инкогнит]: "/jobs private"
+[21.08.2022 19:27:13] [Info] Broadcast: admin_logout_message
+[21.08.2022 19:27:13] [Info] Broadcast: admin_logout_message
+[21.08.2022 19:47:21] [Info] Disconnecting: PlayerID: 76561198840708393 Name: Инкогнит Character: [Бандит] Incognit
+[21.08.2022 19:47:21] [Info] Saving server
+[21.08.2022 20:17:21] [Info] Saving server
+[21.08.2022 20:40:32] [Info] 
+[unloading] RocketJobs
