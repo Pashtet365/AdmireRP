@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FeexRanksConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <EnableLevelUpNotification>false</EnableLevelUpNotification>
+  <EnableLevelUpNotification>true</EnableLevelUpNotification>
   <EnableLevelUpNotificationGlobal>true</EnableLevelUpNotificationGlobal>
   <EnableRankNotificationOnJoin>true</EnableRankNotificationOnJoin>
   <EnableRankNotificationOnJoinGlobal>false</EnableRankNotificationOnJoinGlobal>
@@ -11,7 +11,7 @@
   <FeexRanksDatabaseConfig>
     <DatabaseAddress>127.0.0.1</DatabaseAddress>
     <DatabaseUsername>unturned</DatabaseUsername>
-    <DatabasePassword>password</DatabasePassword>
+    <DatabasePassword>365Pahan365</DatabasePassword>
     <DatabaseName>unturned</DatabaseName>
     <DatabaseTableName>ranks</DatabaseTableName>
     <DatabasePort>3306</DatabasePort>

@@ -19,6 +19,22 @@
         <Permission Cooldown="0">acceptjob</Permission>
         <Permission Cooldown="0">vk</Permission>
         <Permission Cooldown="0">rules</Permission>
+        <Permission Cooldown="0">pay</Permission>
+        <Permission Cooldown="0">balance</Permission>
+        <Permission Cooldown="0">sms</Permission>
+        <Permission Cooldown="0">do</Permission>
+        <Permission Cooldown="0">nrp</Permission>
+        <Permission Cooldown="0">list</Permission>
+        <Permission Cooldown="0">points</Permission>
+        <Permission Cooldown="0">rank</Permission>
+        <Permission Cooldown="0">dutycheck</Permission>
+        <Permission Cooldown="0">dc</Permission>
+        <Permission Cooldown="0">duty</Permission>
+        <Permission Cooldown="0">d</Permission>
+        <Permission Cooldown="0">cost</Permission>
+        <Permission Cooldown="0">shop</Permission>
+        <Permission Cooldown="0">apay</Permission>
+        <Permission Cooldown="0">exchange</Permission>
       </Permissions>
     </Group>
     <Group>
@@ -82,7 +98,7 @@
     <Group>
       <Id>Military</Id>
       <DisplayName>Военный </DisplayName>
-      <Prefix>Военный </Prefix>
+      <Prefix>[Военный] </Prefix>
       <Suffix />
       <Color>FF9900</Color>
       <Members />
@@ -93,9 +109,39 @@
       </Permissions>
     </Group>
     <Group>
+      <Id>Military Leader</Id>
+      <DisplayName>Военный Генерал </DisplayName>
+      <Prefix>[Военный Генерал] </Prefix>
+      <Suffix />
+      <Color>FF9900</Color>
+      <Members />
+      <ParentGroup>default</ParentGroup>
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="0">compass</Permission>
+        <Permission Cooldown="0">acceptjob</Permission>
+        <Permission Cooldown="0">aj</Permission>
+        <Permission Cooldown="0">ajob</Permission>
+        <Permission Cooldown="0">acceptj</Permission>
+        <Permission Cooldown="0">jobadmin</Permission>
+        <Permission Cooldown="0">ja</Permission>
+        <Permission Cooldown="0">jadmin</Permission>
+        <Permission Cooldown="0">joba</Permission>
+        <Permission Cooldown="0">leavejob</Permission>
+        <Permission Cooldown="0">ljob</Permission>
+        <Permission Cooldown="0">leavej</Permission>
+        <Permission Cooldown="0">joinjob</Permission>
+        <Permission Cooldown="0">jj</Permission>
+        <Permission Cooldown="0">jobs</Permission>
+        <Permission Cooldown="0">lj</Permission>
+        <Permission Cooldown="0">ljobs</Permission>
+        <Permission Cooldown="0">listjobs</Permission>
+      </Permissions>
+    </Group>
+    <Group>
       <Id>creator</Id>
       <DisplayName>Создатель</DisplayName>
-      <Prefix>Создатель </Prefix>
+      <Prefix>[Создатель] </Prefix>
       <Suffix />
       <Color>FF9900</Color>
       <Members />
@@ -108,7 +154,7 @@
     <Group>
       <Id>Mainadmine</Id>
       <DisplayName>Главный Администратор </DisplayName>
-      <Prefix>Главный Администратор </Prefix>
+      <Prefix>[Главный Администратор] </Prefix>
       <Suffix />
       <Color>FF9900</Color>
       <Members />

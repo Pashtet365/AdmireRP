@@ -1,0 +1,161 @@
+[23.08.2022 15:40:43] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[23.08.2022 15:40:44] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[23.08.2022 15:40:44] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[23.08.2022 15:40:44] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[23.08.2022 15:40:44] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[23.08.2022 15:40:44] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[23.08.2022 15:40:44] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[23.08.2022 15:40:44] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[23.08.2022 15:40:44] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[23.08.2022 15:40:44] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[23.08.2022 15:40:44] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[23.08.2022 15:40:44] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[23.08.2022 15:40:44] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[23.08.2022 15:40:44] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[23.08.2022 15:40:44] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[23.08.2022 15:40:44] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[23.08.2022 15:40:44] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[23.08.2022 15:40:44] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[23.08.2022 15:40:44] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[23.08.2022 15:40:44] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[23.08.2022 15:40:44] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[23.08.2022 15:40:44] [Info] Loading ChatControl from C:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\ChatControl.dll
+[23.08.2022 15:40:44] [Info] Loading DiagonalRPLicenses from C:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\DiagonalRPLicenses.dll
+[23.08.2022 15:40:44] [Info] Loading Duty from C:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\Duty.dll
+[23.08.2022 15:40:44] [Info] Loading FeexRanks from C:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\FeexRanks.dll
+[23.08.2022 15:40:44] [Info] Loading RocketJobs from C:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\RocketJobs.dll
+[23.08.2022 15:40:44] [Info] Loading RocketTools from C:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\RocketTools.dll
+[23.08.2022 15:40:44] [Info] Loading TNTCHAT from C:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\TNTCHAT.dll
+[23.08.2022 15:40:44] [Info] Loading Uconomy from C:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\Uconomy.dll
+[23.08.2022 15:40:44] [Info] Loading uEssentials from C:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\uEssentials.dll
+[23.08.2022 15:40:44] [Info] Loading ZaupShop from C:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\ZaupShop.dll
+[23.08.2022 15:40:44] [Info] Loading ZaupUconomyEssentials from C:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\ZaupUconomyEssentials.dll
+[23.08.2022 15:40:46] [Info] 
+[loading] ChatControl
+[23.08.2022 15:40:46] [Info] [registered] /unmute (fr34kyn01535.ChatControl.CommandUnmute/unmute)
+[23.08.2022 15:40:46] [Info] [registered] /mute (fr34kyn01535.ChatControl.CommandMute/mute)
+[23.08.2022 15:40:46] [Info] UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: ChatControlPlayerComponent
+[23.08.2022 15:40:46] [Info] 
+[loading] DiagonalRPLicenses
+[23.08.2022 15:40:46] [Info] 
+[loading] Duty
+[23.08.2022 15:40:46] [Info] [registered] /dutycheck (EFG.Duty.CommandDutycheck/DutyCheck)
+[23.08.2022 15:40:46] [Info] [registered] /dc (EFG.Duty.CommandDutycheck/dc)
+[23.08.2022 15:40:46] [Info] [registered] /duty (EFG.Duty.CommandDuty/duty)
+[23.08.2022 15:40:46] [Info] [registered] /d (EFG.Duty.CommandDuty/d)
+[23.08.2022 15:40:46] [Warning] Loading event "Player Connected"...
+[23.08.2022 15:40:46] [Warning] Loading event "Player Disconnected"...
+[23.08.2022 15:40:46] [Warning] 
+[23.08.2022 15:40:46] [Warning] Duty has been successfully loaded!
+[23.08.2022 15:40:46] [Info] 
+[loading] FeexRanks
+[23.08.2022 15:40:46] [Info] [registered] /list (Freenex.FeexRanks.Commands.CommandList/list)
+[23.08.2022 15:40:46] [Info] [registered] /points (Freenex.FeexRanks.Commands.CommandPoints/points)
+[23.08.2022 15:40:46] [Info] [registered] /rank (Freenex.FeexRanks.Commands.CommandRank/rank)
+[23.08.2022 15:40:46] [Error] Could not find dependency: MySql.Data.resources, Version=8.0.18.0, Culture=ru-RU, PublicKeyToken=c5687fc88969c44d
+[23.08.2022 15:40:46] [Error] Could not find dependency: MySql.Data.resources, Version=8.0.18.0, Culture=ru, PublicKeyToken=c5687fc88969c44d
+[23.08.2022 15:40:46] [Error] FeexRanks >> Exception in FeexRanks: MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '127.0.0.1' for user 'unturned' using method 'mysql_native_password' failed with message: Access denied for user 'unturned'@'localhost' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'unturned'@'localhost' (using password: YES)
+  at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00096] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.ReadPacket () [0x00000] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x00000] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed (System.Exception ex) [0x0003f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x0000f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate (System.Boolean reset) [0x00097] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Authenticate (System.String authMethod, System.Boolean reset) [0x0002a] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Open () [0x00360] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Driver.Open () [0x0000e] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Driver.Create (MySql.Data.MySqlClient.MySqlConnectionStringBuilder settings) [0x0004e] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection () [0x00006] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection () [0x0008a] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver () [0x0003f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.GetConnection () [0x0001c] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlConnection.Open () [0x001f6] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at Freenex.FeexRanks.Database.DatabaseManager.ExecuteQuery (Freenex.FeexRanks.Database.EQueryType queryType, System.String query, MySql.Data.MySqlClient.MySqlParameter[] parameters) [0x00044] in <7615aedcb027464da545a4192a287b00>:0 
+[23.08.2022 15:40:46] [Error] FeexRanks >> Exception in FeexRanks: MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '127.0.0.1' for user 'unturned' using method 'mysql_native_password' failed with message: Access denied for user 'unturned'@'localhost' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'unturned'@'localhost' (using password: YES)
+  at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00096] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.ReadPacket () [0x00000] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x00000] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed (System.Exception ex) [0x0003f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x0000f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate (System.Boolean reset) [0x00097] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Authenticate (System.String authMethod, System.Boolean reset) [0x0002a] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Open () [0x00360] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Driver.Open () [0x0000e] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Driver.Create (MySql.Data.MySqlClient.MySqlConnectionStringBuilder settings) [0x0004e] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection () [0x00006] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection () [0x0008a] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver () [0x0003f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.GetConnection () [0x0001c] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlConnection.Open () [0x001f6] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at Freenex.FeexRanks.Database.DatabaseManager.ExecuteQuery (Freenex.FeexRanks.Database.EQueryType queryType, System.String query, MySql.Data.MySqlClient.MySqlParameter[] parameters) [0x00044] in <7615aedcb027464da545a4192a287b00>:0 
+[23.08.2022 15:40:46] [Info] Freenex's FeexRanks has been loaded!
+[23.08.2022 15:40:46] [Info] 
+[loading] RocketJobs
+[23.08.2022 15:40:46] [Info] [registered] /acceptjob (Rocket_Jobs.CommandJobAccept/AcceptJob)
+[23.08.2022 15:40:46] [Info] [registered] /aj (Rocket_Jobs.CommandJobAccept/AJ)
+[23.08.2022 15:40:46] [Info] [registered] /ajob (Rocket_Jobs.CommandJobAccept/AJob)
+[23.08.2022 15:40:46] [Info] [registered] /acceptj (Rocket_Jobs.CommandJobAccept/AcceptJ)
+[23.08.2022 15:40:46] [Info] [registered] /jobadmin (Rocket_Jobs.CommandJobAdmin/JobAdmin)
+[23.08.2022 15:40:46] [Info] [registered] /ja (Rocket_Jobs.CommandJobAdmin/JA)
+[23.08.2022 15:40:46] [Info] [registered] /jadmin (Rocket_Jobs.CommandJobAdmin/JAdmin)
+[23.08.2022 15:40:46] [Info] [registered] /joba (Rocket_Jobs.CommandJobAdmin/JobA)
+[23.08.2022 15:40:46] [Info] [registered] /leavejob (Rocket_Jobs.CommandJobLeave/LeaveJob)
+[23.08.2022 15:40:46] [Info] [registered] /ljob (Rocket_Jobs.CommandJobLeave/LJob)
+[23.08.2022 15:40:46] [Info] [registered] /leavej (Rocket_Jobs.CommandJobLeave/LeaveJ)
+[23.08.2022 15:40:46] [Info] [registered] /joinjob (Rocket_Jobs.CommandJoinApplyJob/JoinJob)
+[23.08.2022 15:40:46] [Info] [registered] /jj (Rocket_Jobs.CommandJoinApplyJob/JJ)
+[23.08.2022 15:40:46] [Info] [registered] /jjob (Rocket_Jobs.CommandJoinApplyJob/JJob)
+[23.08.2022 15:40:46] [Info] [registered] /jobs (Rocket_Jobs.CommandJobs/Jobs)
+[23.08.2022 15:40:46] [Info] [registered] /lj (Rocket_Jobs.CommandJobs/LJ)
+[23.08.2022 15:40:46] [Info] [registered] /ljobs (Rocket_Jobs.CommandJobs/LJobs)
+[23.08.2022 15:40:46] [Info] [registered] /listjobs (Rocket_Jobs.CommandJobs/ListJobs)
+[23.08.2022 15:40:46] [Info] RocketJobs >> Jobs, build #6 has been loaded!
+[23.08.2022 15:40:46] [Info] 
+[loading] RocketTools
+[23.08.2022 15:40:46] [Info] [registered] /rocketpermission (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketpermission)
+[23.08.2022 15:40:46] [Info] [registered] /rp (Bloodstone.Plugins.RocketTools.CommandRPerm/rp)
+[23.08.2022 15:40:46] [Info] [registered] /rpermission (Bloodstone.Plugins.RocketTools.CommandRPerm/rpermission)
+[23.08.2022 15:40:46] [Info] [registered] /rperm (Bloodstone.Plugins.RocketTools.CommandRPerm/rperm)
+[23.08.2022 15:40:46] [Info] [registered] /rocketp (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketp)
+[23.08.2022 15:40:46] [Info] [registered] /rocketperm (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketperm)
+[23.08.2022 15:40:46] [Warning] RocketTools by persiafighter, build #4 has been loaded!
+[23.08.2022 15:40:46] [Info] 
+[loading] TNTCHAT
+[23.08.2022 15:40:46] [Info] [registered] /sms (Ryan-_-Borland_Protector_v1ARyan-_-Borland_Protector_v1/sms)
+[23.08.2022 15:40:46] [Info] [registered] /do (Ryan-_-Borland_Protector_v1eRyan-_-Borland_Protector_v1/do)
+[23.08.2022 15:40:46] [Info] [registered] /nrp (Ryan-_-Borland_Protector_v1ERyan-_-Borland_Protector_v1/nrp)
+[23.08.2022 15:40:46] [Info] 
+[loading] Uconomy
+[23.08.2022 15:40:46] [Info] [registered] /balance (fr34kyn01535.Uconomy.CommandBalance/balance)
+[23.08.2022 15:40:46] [Info] [registered] /pay (fr34kyn01535.Uconomy.CommandPay/pay)
+[23.08.2022 15:40:46] [Info] 
+[loading] uEssentials
+[23.08.2022 15:40:46] [Info] 
+[loading] ZaupShop
+[23.08.2022 15:40:46] [Info] [registered] /buy (ZaupShop.CommandBuy/buy)
+[23.08.2022 15:40:46] [Info] [registered] /cost (ZaupShop.CommandCost/cost)
+[23.08.2022 15:40:46] [Info] [registered] /sell (ZaupShop.CommandSell/sell)
+[23.08.2022 15:40:46] [Info] [registered] /shop (ZaupShop.CommandShop/shop)
+[23.08.2022 15:40:46] [Info] 
+[loading] ZaupUconomyEssentials
+[23.08.2022 15:40:46] [Info] [registered] /apay (ZaupUconomyEssentials.CommandApay/apay)
+[23.08.2022 15:40:46] [Info] [registered] /exchange (ZaupUconomyEssentials.CommandExchange/exchange)
+[23.08.2022 15:40:46] [Info] UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: PlayerUe
+[23.08.2022 15:40:46] [Info] This server will automatically save every 1800 seconds
+[23.08.2022 15:40:46] [Info] Steam servers ready!
+[23.08.2022 15:40:46] [Info] Workshop install folder: C:\Steam\steamapps\common\U3DS/Servers/AdmireRP/Workshop/Steam
+[23.08.2022 15:40:46] [Info] 0 workshop item(s) requested
+[23.08.2022 15:40:47] [Info] Loading level: 8%
+[23.08.2022 15:40:48] [Info] Loading level: 16%
+[23.08.2022 15:40:48] [Info] Loading level: 25%
+[23.08.2022 15:40:48] [Info] Loading level: 33%
+[23.08.2022 15:40:48] [Info] Loading level: 41%
+[23.08.2022 15:40:48] [Info] Loading level: 50%
+[23.08.2022 15:40:48] [Info] Loading level: 58%
+[23.08.2022 15:40:48] [Info] Loading level: 66%
+[23.08.2022 15:40:48] [Info] Loading level: 75%
+[23.08.2022 15:40:48] [Info] Loading level: 83%
+[23.08.2022 15:40:48] [Info] Loading level: 91%
+[23.08.2022 15:40:48] [Info] Loading level: 100%
+[23.08.2022 15:54:33] [Info] 
+[unloading] Duty

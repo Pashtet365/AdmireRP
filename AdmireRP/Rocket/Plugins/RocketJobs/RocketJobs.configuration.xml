@@ -20,7 +20,7 @@
     <PrivateJobs>
       <JobName>Military</JobName>
       <PermissionGroup>Military</PermissionGroup>
-      <LeaderPermissionGroup>Military Leader</LeaderPermissionGroup>
+      <LeaderPermissionGroup>MilitaryLeader</LeaderPermissionGroup>
     </PrivateJobs>
     <PrivateJobs>
       <JobName>Police</JobName>
