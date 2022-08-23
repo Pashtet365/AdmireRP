@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<DutyConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <EnableServerAnnouncer>true</EnableServerAnnouncer>
-  <RemoveAdminOnLogout>true</RemoveAdminOnLogout>
-  <AllowDutyCheck>true</AllowDutyCheck>
-  <MessageColor>red</MessageColor>
-</DutyConfiguration>

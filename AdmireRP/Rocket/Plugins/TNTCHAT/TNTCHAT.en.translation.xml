@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="nrp_chat_say" Value="[Нон-Рп] {2} {0}: {1}" />
+  <Translation Id="do_chat_say" Value="[Действие] {3} {0}: {1} {2}" />
+  <Translation Id="sms_chat_say" Value="[СМС] {2} {0}: {1}" />
   <Translation Id="global_chat" Value="Глобальный чат отключен, нажмите k или используйте /nrp" />
   <Translation Id="local_chat" Value="Локальный чат отключен!" />
   <Translation Id="group_chat" Value="Групповой чат отключен!" />

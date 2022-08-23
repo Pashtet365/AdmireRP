@@ -8,7 +8,7 @@
     <Group DisplayName="moderator" Salary="4.0" />
     <Group DisplayName="guest" Salary="1.0" />
   </PayGroups>
-  <PayTimeSeconds>5</PayTimeSeconds>
+  <PayTimeSeconds>300</PayTimeSeconds>
   <PayHit>false</PayHit>
   <PayHitAmt>1</PayHitAmt>
   <SendPayHitMsg>true</SendPayHitMsg>

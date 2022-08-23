@@ -3,7 +3,7 @@
   <GlobalChat>false</GlobalChat>
   <LocalChat>true</LocalChat>
   <GroupChat>true</GroupChat>
-  <RadiusDO>15</RadiusDO>
+  <RadiusDO>200</RadiusDO>
   <RadiusNRP>3000</RadiusNRP>
   <RadiusSMS>200</RadiusSMS>
 </Config>
