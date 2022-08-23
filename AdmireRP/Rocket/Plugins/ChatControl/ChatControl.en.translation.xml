@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Translation Id="command_player_not_found" Value="Player not found" />
-  <Translation Id="command_mute" Value="{0} is now muted" />
-  <Translation Id="command_unmute" Value="{0} is now unmuted, his warnings have been reset" />
-  <Translation Id="kick_ban_reason" Value="Too many badwords" />
-  <Translation Id="you_are_muted" Value="You are muted, talk to the hand" />
-  <Translation Id="badword_detected" Value="{0} is a badword, don't use it or bad things will happen to you. This is your {1}. warning." />
-</Translations>

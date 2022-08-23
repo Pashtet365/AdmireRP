@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="mute_broadcast" Value="{0} is now muted for {1} by {2}" />
+  <Translation Id="permamute_broadcast" Value="{0} is now permamuted by {1}" />
+  <Translation Id="unmute_broadcast" Value="{0} is now unmuted" />
+  <Translation Id="you_in_mute" Value="You are muted for {0}" />
+  <Translation Id="you_in_permamute" Value="You are muted permanently" />
+  <Translation Id="you_use_badword" Value="You used blacklisted word! This {0}/{1} your warning" />
+  <Translation Id="player_not_found" Value="Target player not found" />
+  <Translation Id="wrong_time" Value="Wrong time parameter!" />
+  <Translation Id="wrong_usage" Value="Wrong syntax!" />
+  <Translation Id="automute_reason" Value="Too much warnings" />
+  <Translation Id="reason_description" Value="Reason: {0}" />
+  <Translation Id="already_muted" Value="This player already muted!" />
+  <Translation Id="not_muted" Value="This player not muted yet!" />
+  <Translation Id="player_hasnt_warnings" Value="This player hasn't warnings yet!" />
+</Translations>

@@ -92,8 +92,8 @@
     <Command Name="unadmin" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandUnadmin/unadmin</Command>
     <Command Name="v" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandV/v</Command>
     <Command Name="vanish" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandVanish/vanish</Command>
-    <Command Name="unmute" Enabled="true" Priority="Normal">fr34kyn01535.ChatControl.CommandUnmute/unmute</Command>
-    <Command Name="mute" Enabled="true" Priority="Normal">fr34kyn01535.ChatControl.CommandMute/mute</Command>
+    <Command Name="unmute" Enabled="false" Priority="Normal">fr34kyn01535.ChatControl.CommandUnmute/unmute</Command>
+    <Command Name="mute" Enabled="false" Priority="Normal">fr34kyn01535.ChatControl.CommandMute/mute</Command>
     <Command Name="AcceptJob" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobAccept/AcceptJob</Command>
     <Command Name="AJ" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobAccept/AJ</Command>
     <Command Name="AJob" Enabled="true" Priority="Normal">Rocket_Jobs.CommandJobAccept/AJob</Command>
@@ -145,5 +145,8 @@
     <Command Name="nrp" Enabled="false" Priority="Normal">Ryan-_-Borland_Protector_v1ERyan-_-Borland_Protector_v1/nrp</Command>
     <Command Name="do" Enabled="true" Priority="Normal">Ryan-_-Borland_Protector_v1fRyan-_-Borland_Protector_v1/do</Command>
     <Command Name="nrp" Enabled="true" Priority="Normal">Ryan-_-Borland_Protector_v1gRyan-_-Borland_Protector_v1/nrp</Command>
+    <Command Name="cwarns" Enabled="true" Priority="Normal">AdvancedChat.CWarnsCommand/cwarns</Command>
+    <Command Name="mute" Enabled="true" Priority="Normal">AdvancedChat.MuteCommand/mute</Command>
+    <Command Name="unmute" Enabled="true" Priority="Normal">AdvancedChat.UnmuteCommand/unmute</Command>
   </Commands>
 </RocketCommands>
