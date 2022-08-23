@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="no_weapon_license" Value="You do not have a license to use this weapon!" />
+  <Translation Id="no_vehicle_license" Value="You do not have a license to drive this vehicle!" />
+  <Translation Id="driving_no_license" Value="You're driving without a license!" />
+  <Translation Id="carrying_no_license" Value="You're carrying a gun without a license!" />
+  <Translation Id="licenses_on" Value="Disabled Licenses!" />
+  <Translation Id="licenses_off" Value="Enabled Licenses!" />
+</Translations>

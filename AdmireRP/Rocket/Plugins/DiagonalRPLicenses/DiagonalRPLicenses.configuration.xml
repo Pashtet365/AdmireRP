@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RPLicensesConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Licensed>
+    <WeaponID>122</WeaponID>
+    <WeaponID>363</WeaponID>
+    <WeaponID>297</WeaponID>
+  </Licensed>
+  <IgnoreAdmin>true</IgnoreAdmin>
+  <LicensesMessage>true</LicensesMessage>
+  <DisableLicensesOnGroupOnline>true</DisableLicensesOnGroupOnline>
+  <DisableLicensesPermission>license.disable</DisableLicensesPermission>
+  <WeaponLicense>true</WeaponLicense>
+  <DropOnTake>true</DropOnTake>
+  <WeaponLicenseID>42504</WeaponLicenseID>
+  <WeaponLicensePermission>license.weapon</WeaponLicensePermission>
+  <VehicleLicense>true</VehicleLicense>
+  <KickOnEnter>true</KickOnEnter>
+  <VehicleLicenseID>42503</VehicleLicenseID>
+  <VehicleLicensePermission>license.vehicle</VehicleLicensePermission>
+</RPLicensesConfiguration>
