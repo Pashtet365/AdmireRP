@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="send_sms" Value="SMS-сообщение успешно отправлено на: {0}" />
+  <Translation Id="receive_sms" Value="СМС от {0}: {1}" />
+  <Translation Id="reply_sms" Value="СМС от{0} успешно ответил!" />
+  <Translation Id="no_player" Value="Игрок не найден!" />
+  <Translation Id="no_player_reply" Value="У вас нет sms для ответа!" />
+  <Translation Id="no_yourself" Value="Вы не можете отправить sms самому себе!" />
+  <Translation Id="not_enough_xp" Value="У вас недостаточно опыта, чтобы отправить SMS!" />
+  <Translation Id="sms_pay" Value="Вы заплатили {0} уровней опыта за это SMS!" />
+</Translations>

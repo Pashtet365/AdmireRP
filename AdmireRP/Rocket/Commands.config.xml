@@ -140,7 +140,7 @@
     <Command Name="b" Enabled="true" Priority="Normal">OOC.CommandOOC/b</Command>
     <Command Name="ooc" Enabled="true" Priority="Normal">OOC.CommandOOC/ooc</Command>
     <Command Name="localooc" Enabled="true" Priority="Normal">OOC.CommandOOC/localooc</Command>
-    <Command Name="sms" Enabled="true" Priority="Normal">Ryan-_-Borland_Protector_v1ARyan-_-Borland_Protector_v1/sms</Command>
+    <Command Name="sms" Enabled="false" Priority="Normal">Ryan-_-Borland_Protector_v1ARyan-_-Borland_Protector_v1/sms</Command>
     <Command Name="do" Enabled="false" Priority="Normal">Ryan-_-Borland_Protector_v1eRyan-_-Borland_Protector_v1/do</Command>
     <Command Name="nrp" Enabled="false" Priority="Normal">Ryan-_-Borland_Protector_v1ERyan-_-Borland_Protector_v1/nrp</Command>
     <Command Name="do" Enabled="true" Priority="Normal">Ryan-_-Borland_Protector_v1fRyan-_-Borland_Protector_v1/do</Command>
@@ -148,5 +148,7 @@
     <Command Name="cwarns" Enabled="true" Priority="Normal">AdvancedChat.CWarnsCommand/cwarns</Command>
     <Command Name="mute" Enabled="true" Priority="Normal">AdvancedChat.MuteCommand/mute</Command>
     <Command Name="unmute" Enabled="true" Priority="Normal">AdvancedChat.UnmuteCommand/unmute</Command>
+    <Command Name="r" Enabled="true" Priority="Normal">Diagonal.ZAP.CommandReply/r</Command>
+    <Command Name="sms" Enabled="true" Priority="Normal">Diagonal.ZAP.CommandSMS/sms</Command>
   </Commands>
 </RocketCommands>
