@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TaserPluginConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TaserPerm>TaserPlugin.Tase</TaserPerm>
+  <Taser>51200</Taser>
+  <TaseDuration>5</TaseDuration>
+  <SurrenderOnTase>true</SurrenderOnTase>
+  <EjectFromVehicleOnTase>true</EjectFromVehicleOnTase>
+  <Debug>false</Debug>
+</TaserPluginConfig>
