@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlayerReportConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DatabaseAddress>localhost</DatabaseAddress>
+  <DatabaseUsername>root</DatabaseUsername>
+  <DatabasePassword>365Pahan365</DatabasePassword>
+  <DatabaseName>Unturned</DatabaseName>
+  <DatabaseTableName>Reports</DatabaseTableName>
+  <DatabasePort>3306</DatabasePort>
+  <UseMYSQL>false</UseMYSQL>
+  <Notifications>3</Notifications>
+  <MaxCharacter>true</MaxCharacter>
+  <LimCharacter>150</LimCharacter>
+  <TestCode>false</TestCode>
+  <KeyTestCode>admintests1567</KeyTestCode>
+  <LogFile>false</LogFile>
+</PlayerReportConfiguration>

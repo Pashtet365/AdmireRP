@@ -1,0 +1,143 @@
+[25.08.2022 20:14:41] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[25.08.2022 20:14:42] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[25.08.2022 20:14:42] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[25.08.2022 20:14:42] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[25.08.2022 20:14:42] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[25.08.2022 20:14:42] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[25.08.2022 20:14:42] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[25.08.2022 20:14:42] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[25.08.2022 20:14:42] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[25.08.2022 20:14:42] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[25.08.2022 20:14:42] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[25.08.2022 20:14:42] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[25.08.2022 20:14:42] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[25.08.2022 20:14:42] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[25.08.2022 20:14:42] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[25.08.2022 20:14:42] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[25.08.2022 20:14:42] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[25.08.2022 20:14:42] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[25.08.2022 20:14:42] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[25.08.2022 20:14:42] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[25.08.2022 20:14:42] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[25.08.2022 20:14:42] [Info] Loading AdvancedChat from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\AdvancedChat.dll
+[25.08.2022 20:14:42] [Info] Loading DiagonalZAP from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\DiagonalZAP.dll
+[25.08.2022 20:14:42] [Info] Loading PlayerReport from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\PlayerReport.dll
+[25.08.2022 20:14:42] [Info] Loading RocketJobs from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\RocketJobs.dll
+[25.08.2022 20:14:42] [Info] Loading RocketTools from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\RocketTools.dll
+[25.08.2022 20:14:42] [Info] Loading TNTCHAT from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\TNTCHAT.dll
+[25.08.2022 20:14:42] [Info] Loading Uconomy from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\Uconomy.dll
+[25.08.2022 20:14:43] [Info] Loading uEssentials from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\uEssentials.dll
+[25.08.2022 20:14:43] [Info] Loading ZaupShop from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\ZaupShop.dll
+[25.08.2022 20:14:43] [Info] Loading ZaupUconomyEssentials from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\ZaupUconomyEssentials.dll
+[25.08.2022 20:14:43] [Info] 
+[loading] AdvancedChat
+[25.08.2022 20:14:43] [Info] [registered] /cwarns (AdvancedChat.CWarnsCommand/cwarns)
+[25.08.2022 20:14:43] [Info] [registered] /mute (AdvancedChat.MuteCommand/mute)
+[25.08.2022 20:14:43] [Info] [registered] /unmute (AdvancedChat.UnmuteCommand/unmute)
+[25.08.2022 20:14:43] [Info] AdvancedChat >> AdvancedChat plugin loaded!
+[25.08.2022 20:14:43] [Info] AdvancedChat >> Broadcast mute: True
+[25.08.2022 20:14:43] [Info] AdvancedChat >> Broadcast unmute: True
+[25.08.2022 20:14:43] [Info] AdvancedChat >> Warnings before mute: 5
+[25.08.2022 20:14:43] [Info] AdvancedChat >> AutoMute duration: 60
+[25.08.2022 20:14:43] [Info] AdvancedChat >> Created by Brinza Bezrukoff
+[25.08.2022 20:14:43] [Info] AdvancedChat >> Vk: vk.com/brinza888
+[25.08.2022 20:14:43] [Info] AdvancedChat >> Mail: bezrukoff888@gmail.com
+[25.08.2022 20:14:43] [Info] 
+[loading] DiagonalZAP
+[25.08.2022 20:14:43] [Info] [registered] /r (Diagonal.ZAP.CommandReply/r)
+[25.08.2022 20:14:43] [Info] [registered] /sms (Diagonal.ZAP.CommandSMS/sms)
+[25.08.2022 20:14:43] [Info] 
+[loading] PlayerReport
+[25.08.2022 20:14:43] [Info] [registered] /report (RG.PlayerReport.CommandReport/report)
+[25.08.2022 20:14:43] [Info] [registered] /reports (RG.PlayerReport.CommandReports/reports)
+[25.08.2022 20:14:43] [Info] PlayerReport >> Connecting the database ...
+[25.08.2022 20:14:43] [Error] Could not find dependency: MySql.Data.resources, Version=8.0.18.0, Culture=ru-RU, PublicKeyToken=c5687fc88969c44d
+[25.08.2022 20:14:43] [Error] Could not find dependency: MySql.Data.resources, Version=8.0.18.0, Culture=ru, PublicKeyToken=c5687fc88969c44d
+[25.08.2022 20:14:43] [Error] PlayerReport >> Exception in PlayerReport: MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'root'@'localhost' (using password: YES)
+  at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00096] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.ReadPacket () [0x00000] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x00000] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed (System.Exception ex) [0x0003f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x0000f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate (System.Boolean reset) [0x00097] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Authenticate (System.String authMethod, System.Boolean reset) [0x0002a] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Open () [0x00360] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Driver.Open () [0x0000e] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.Driver.Create (MySql.Data.MySqlClient.MySqlConnectionStringBuilder settings) [0x0004e] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection () [0x00006] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection () [0x0008a] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver () [0x0003f] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlPool.GetConnection () [0x0001c] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at MySql.Data.MySqlClient.MySqlConnection.Open () [0x001f6] in <4f93ec5cee7d499da6a85a364813afe3>:0 
+  at RG.PlayerReport.Database.CheckSchema () [0x00039] in <a76f98525fad4585afdd3e6687d7ae85>:0 
+[25.08.2022 20:14:43] [Info] To connect to the database, please check the settings!
+[25.08.2022 20:14:43] [Info] PlayerReport >> Report Plugin has been loaded without MySQL!
+[25.08.2022 20:14:43] [Info] 
+[loading] RocketJobs
+[25.08.2022 20:14:43] [Info] [registered] /acceptjob (Rocket_Jobs.CommandJobAccept/AcceptJob)
+[25.08.2022 20:14:43] [Info] [registered] /aj (Rocket_Jobs.CommandJobAccept/AJ)
+[25.08.2022 20:14:43] [Info] [registered] /ajob (Rocket_Jobs.CommandJobAccept/AJob)
+[25.08.2022 20:14:43] [Info] [registered] /acceptj (Rocket_Jobs.CommandJobAccept/AcceptJ)
+[25.08.2022 20:14:43] [Info] [registered] /jobadmin (Rocket_Jobs.CommandJobAdmin/JobAdmin)
+[25.08.2022 20:14:43] [Info] [registered] /ja (Rocket_Jobs.CommandJobAdmin/JA)
+[25.08.2022 20:14:43] [Info] [registered] /jadmin (Rocket_Jobs.CommandJobAdmin/JAdmin)
+[25.08.2022 20:14:43] [Info] [registered] /joba (Rocket_Jobs.CommandJobAdmin/JobA)
+[25.08.2022 20:14:43] [Info] [registered] /leavejob (Rocket_Jobs.CommandJobLeave/LeaveJob)
+[25.08.2022 20:14:43] [Info] [registered] /ljob (Rocket_Jobs.CommandJobLeave/LJob)
+[25.08.2022 20:14:43] [Info] [registered] /leavej (Rocket_Jobs.CommandJobLeave/LeaveJ)
+[25.08.2022 20:14:43] [Info] [registered] /joinjob (Rocket_Jobs.CommandJoinApplyJob/JoinJob)
+[25.08.2022 20:14:43] [Info] [registered] /jj (Rocket_Jobs.CommandJoinApplyJob/JJ)
+[25.08.2022 20:14:43] [Info] [registered] /jjob (Rocket_Jobs.CommandJoinApplyJob/JJob)
+[25.08.2022 20:14:43] [Info] [registered] /jobs (Rocket_Jobs.CommandJobs/Jobs)
+[25.08.2022 20:14:43] [Info] [registered] /lj (Rocket_Jobs.CommandJobs/LJ)
+[25.08.2022 20:14:43] [Info] [registered] /ljobs (Rocket_Jobs.CommandJobs/LJobs)
+[25.08.2022 20:14:43] [Info] [registered] /listjobs (Rocket_Jobs.CommandJobs/ListJobs)
+[25.08.2022 20:14:43] [Info] RocketJobs >> Jobs, build #6 has been loaded!
+[25.08.2022 20:14:43] [Info] 
+[loading] RocketTools
+[25.08.2022 20:14:43] [Info] [registered] /rocketpermission (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketpermission)
+[25.08.2022 20:14:43] [Info] [registered] /rp (Bloodstone.Plugins.RocketTools.CommandRPerm/rp)
+[25.08.2022 20:14:43] [Info] [registered] /rpermission (Bloodstone.Plugins.RocketTools.CommandRPerm/rpermission)
+[25.08.2022 20:14:43] [Info] [registered] /rperm (Bloodstone.Plugins.RocketTools.CommandRPerm/rperm)
+[25.08.2022 20:14:43] [Info] [registered] /rocketp (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketp)
+[25.08.2022 20:14:43] [Info] [registered] /rocketperm (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketperm)
+[25.08.2022 20:14:43] [Warning] RocketTools by persiafighter, build #4 has been loaded!
+[25.08.2022 20:14:43] [Info] 
+[loading] TNTCHAT
+[25.08.2022 20:14:43] [Info] [registered] /do (Ryan-_-Borland_Protector_v1fRyan-_-Borland_Protector_v1/do)
+[25.08.2022 20:14:43] [Info] [registered] /nrp (Ryan-_-Borland_Protector_v1gRyan-_-Borland_Protector_v1/nrp)
+[25.08.2022 20:14:43] [Info] 
+[loading] Uconomy
+[25.08.2022 20:14:43] [Info] [registered] /balance (fr34kyn01535.Uconomy.CommandBalance/balance)
+[25.08.2022 20:14:43] [Info] [registered] /pay (fr34kyn01535.Uconomy.CommandPay/pay)
+[25.08.2022 20:14:43] [Info] 
+[loading] uEssentials
+[25.08.2022 20:14:43] [Info] 
+[loading] ZaupShop
+[25.08.2022 20:14:43] [Info] [registered] /buy (ZaupShop.CommandBuy/buy)
+[25.08.2022 20:14:43] [Info] [registered] /cost (ZaupShop.CommandCost/cost)
+[25.08.2022 20:14:43] [Info] [registered] /sell (ZaupShop.CommandSell/sell)
+[25.08.2022 20:14:43] [Info] [registered] /shop (ZaupShop.CommandShop/shop)
+[25.08.2022 20:14:43] [Info] 
+[loading] ZaupUconomyEssentials
+[25.08.2022 20:14:43] [Info] [registered] /apay (ZaupUconomyEssentials.CommandApay/apay)
+[25.08.2022 20:14:43] [Info] [registered] /exchange (ZaupUconomyEssentials.CommandExchange/exchange)
+[25.08.2022 20:14:43] [Info] UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: PlayerUe
+[25.08.2022 20:14:43] [Info] This server will automatically save every 1800 seconds
+[25.08.2022 20:14:43] [Info] Steam servers ready!
+[25.08.2022 20:14:43] [Info] Workshop install folder: D:\Steam\steamapps\common\U3DS/Servers/AdmireRP/Workshop/Steam
+[25.08.2022 20:14:43] [Info] 0 workshop item(s) requested
+[25.08.2022 20:14:43] [Info] Loading level: 8%
+[25.08.2022 20:14:44] [Info] Loading level: 16%
+[25.08.2022 20:14:45] [Info] Loading level: 25%
+[25.08.2022 20:14:45] [Info] Loading level: 33%
+[25.08.2022 20:14:45] [Info] Loading level: 41%
+[25.08.2022 20:14:45] [Info] Loading level: 50%
+[25.08.2022 20:14:45] [Info] Loading level: 58%
+[25.08.2022 20:14:45] [Info] Loading level: 66%
+[25.08.2022 20:14:45] [Info] Loading level: 75%
+[25.08.2022 20:14:45] [Info] Loading level: 83%
+[25.08.2022 20:14:45] [Info] Loading level: 91%
+[25.08.2022 20:14:45] [Info] Loading level: 100%
+[25.08.2022 20:15:40] [Info] 
+[unloading] DiagonalZAP

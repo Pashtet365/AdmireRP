@@ -150,5 +150,7 @@
     <Command Name="unmute" Enabled="true" Priority="Normal">AdvancedChat.UnmuteCommand/unmute</Command>
     <Command Name="r" Enabled="true" Priority="Normal">Diagonal.ZAP.CommandReply/r</Command>
     <Command Name="sms" Enabled="true" Priority="Normal">Diagonal.ZAP.CommandSMS/sms</Command>
+    <Command Name="report" Enabled="true" Priority="Normal">RG.PlayerReport.CommandReport/report</Command>
+    <Command Name="reports" Enabled="true" Priority="Normal">RG.PlayerReport.CommandReports/reports</Command>
   </Commands>
 </RocketCommands>

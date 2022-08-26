@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="command_player_not_found" Value="Player not found." />
+  <Translation Id="command_report_yourself" Value="You can not report yourself." />
+  <Translation Id="command_from_console" Value="You are the console, the console does not report people, it gives them ban." />
+  <Translation Id="command_add_successful" Value="You reported the player successfully." />
+  <Translation Id="command_del_successful" Value="You deleted the report successfully." />
+  <Translation Id="command_data_not_found" Value="Database not found." />
+  <Translation Id="command_erro_saving" Value="An error occurred with database." />
+  <Translation Id="command_report_not_found" Value="Report not found." />
+  <Translation Id="command_report_maxchar" Value="The reason for the report has exceeded the character limit." />
+  <Translation Id="new_reports_to_see" Value="There are new reports for you to review, {0} reports." />
+  <Translation Id="invalid_num" Value="Please enter a valid number." />
+  <Translation Id="command_report_or_steam_not_found" Value="The id of the report or steam id was not found." />
+</Translations>

@@ -1,0 +1,291 @@
+[23.08.2022 18:23:30] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[23.08.2022 18:23:30] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[23.08.2022 18:23:30] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[23.08.2022 18:23:30] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[23.08.2022 18:23:30] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[23.08.2022 18:23:30] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[23.08.2022 18:23:30] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[23.08.2022 18:23:30] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[23.08.2022 18:23:30] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[23.08.2022 18:23:30] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[23.08.2022 18:23:30] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[23.08.2022 18:23:30] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[23.08.2022 18:23:30] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[23.08.2022 18:23:30] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[23.08.2022 18:23:30] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[23.08.2022 18:23:30] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[23.08.2022 18:23:30] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[23.08.2022 18:23:30] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[23.08.2022 18:23:30] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[23.08.2022 18:23:30] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[23.08.2022 18:23:30] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[23.08.2022 18:23:30] [Info] Loading ChatControl from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\ChatControl.dll
+[23.08.2022 18:23:30] [Info] Loading RocketJobs from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\RocketJobs.dll
+[23.08.2022 18:23:30] [Info] Loading RocketTools from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\RocketTools.dll
+[23.08.2022 18:23:30] [Info] Loading TNTCHAT from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\TNTCHAT.dll
+[23.08.2022 18:23:30] [Info] Loading Uconomy from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\Uconomy.dll
+[23.08.2022 18:23:31] [Info] Loading uEssentials from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\uEssentials.dll
+[23.08.2022 18:23:31] [Info] Loading ZaupShop from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\ZaupShop.dll
+[23.08.2022 18:23:31] [Info] Loading ZaupUconomyEssentials from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\ZaupUconomyEssentials.dll
+[23.08.2022 18:23:31] [Info] 
+[loading] ChatControl
+[23.08.2022 18:23:31] [Info] [registered] /unmute (fr34kyn01535.ChatControl.CommandUnmute/unmute)
+[23.08.2022 18:23:31] [Info] [registered] /mute (fr34kyn01535.ChatControl.CommandMute/mute)
+[23.08.2022 18:23:31] [Info] UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: ChatControlPlayerComponent
+[23.08.2022 18:23:31] [Info] 
+[loading] RocketJobs
+[23.08.2022 18:23:31] [Info] [registered] /acceptjob (Rocket_Jobs.CommandJobAccept/AcceptJob)
+[23.08.2022 18:23:31] [Info] [registered] /aj (Rocket_Jobs.CommandJobAccept/AJ)
+[23.08.2022 18:23:31] [Info] [registered] /ajob (Rocket_Jobs.CommandJobAccept/AJob)
+[23.08.2022 18:23:31] [Info] [registered] /acceptj (Rocket_Jobs.CommandJobAccept/AcceptJ)
+[23.08.2022 18:23:31] [Info] [registered] /jobadmin (Rocket_Jobs.CommandJobAdmin/JobAdmin)
+[23.08.2022 18:23:31] [Info] [registered] /ja (Rocket_Jobs.CommandJobAdmin/JA)
+[23.08.2022 18:23:31] [Info] [registered] /jadmin (Rocket_Jobs.CommandJobAdmin/JAdmin)
+[23.08.2022 18:23:31] [Info] [registered] /joba (Rocket_Jobs.CommandJobAdmin/JobA)
+[23.08.2022 18:23:31] [Info] [registered] /leavejob (Rocket_Jobs.CommandJobLeave/LeaveJob)
+[23.08.2022 18:23:31] [Info] [registered] /ljob (Rocket_Jobs.CommandJobLeave/LJob)
+[23.08.2022 18:23:31] [Info] [registered] /leavej (Rocket_Jobs.CommandJobLeave/LeaveJ)
+[23.08.2022 18:23:31] [Info] [registered] /joinjob (Rocket_Jobs.CommandJoinApplyJob/JoinJob)
+[23.08.2022 18:23:31] [Info] [registered] /jj (Rocket_Jobs.CommandJoinApplyJob/JJ)
+[23.08.2022 18:23:31] [Info] [registered] /jjob (Rocket_Jobs.CommandJoinApplyJob/JJob)
+[23.08.2022 18:23:31] [Info] [registered] /jobs (Rocket_Jobs.CommandJobs/Jobs)
+[23.08.2022 18:23:31] [Info] [registered] /lj (Rocket_Jobs.CommandJobs/LJ)
+[23.08.2022 18:23:31] [Info] [registered] /ljobs (Rocket_Jobs.CommandJobs/LJobs)
+[23.08.2022 18:23:31] [Info] [registered] /listjobs (Rocket_Jobs.CommandJobs/ListJobs)
+[23.08.2022 18:23:31] [Info] RocketJobs >> Jobs, build #6 has been loaded!
+[23.08.2022 18:23:31] [Info] 
+[loading] RocketTools
+[23.08.2022 18:23:31] [Info] [registered] /rocketpermission (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketpermission)
+[23.08.2022 18:23:31] [Info] [registered] /rp (Bloodstone.Plugins.RocketTools.CommandRPerm/rp)
+[23.08.2022 18:23:31] [Info] [registered] /rpermission (Bloodstone.Plugins.RocketTools.CommandRPerm/rpermission)
+[23.08.2022 18:23:31] [Info] [registered] /rperm (Bloodstone.Plugins.RocketTools.CommandRPerm/rperm)
+[23.08.2022 18:23:31] [Info] [registered] /rocketp (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketp)
+[23.08.2022 18:23:31] [Info] [registered] /rocketperm (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketperm)
+[23.08.2022 18:23:31] [Warning] RocketTools by persiafighter, build #4 has been loaded!
+[23.08.2022 18:23:31] [Info] 
+[loading] TNTCHAT
+[23.08.2022 18:23:31] [Info] [registered] /sms (Ryan-_-Borland_Protector_v1ARyan-_-Borland_Protector_v1/sms)
+[23.08.2022 18:23:31] [Info] [registered] /do (Ryan-_-Borland_Protector_v1eRyan-_-Borland_Protector_v1/do)
+[23.08.2022 18:23:31] [Info] [registered] /nrp (Ryan-_-Borland_Protector_v1ERyan-_-Borland_Protector_v1/nrp)
+[23.08.2022 18:23:31] [Info] 
+[loading] Uconomy
+[23.08.2022 18:23:31] [Info] [registered] /balance (fr34kyn01535.Uconomy.CommandBalance/balance)
+[23.08.2022 18:23:31] [Info] [registered] /pay (fr34kyn01535.Uconomy.CommandPay/pay)
+[23.08.2022 18:23:31] [Info] 
+[loading] uEssentials
+[23.08.2022 18:23:31] [Info] 
+[loading] ZaupShop
+[23.08.2022 18:23:31] [Info] [registered] /buy (ZaupShop.CommandBuy/buy)
+[23.08.2022 18:23:31] [Info] [registered] /cost (ZaupShop.CommandCost/cost)
+[23.08.2022 18:23:31] [Info] [registered] /sell (ZaupShop.CommandSell/sell)
+[23.08.2022 18:23:31] [Info] [registered] /shop (ZaupShop.CommandShop/shop)
+[23.08.2022 18:23:31] [Info] 
+[loading] ZaupUconomyEssentials
+[23.08.2022 18:23:31] [Info] [registered] /apay (ZaupUconomyEssentials.CommandApay/apay)
+[23.08.2022 18:23:31] [Info] [registered] /exchange (ZaupUconomyEssentials.CommandExchange/exchange)
+[23.08.2022 18:23:31] [Info] UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: PlayerUe
+[23.08.2022 18:23:31] [Info] This server will automatically save every 1800 seconds
+[23.08.2022 18:23:31] [Info] Steam servers ready!
+[23.08.2022 18:23:31] [Info] Workshop install folder: D:\Steam\steamapps\common\U3DS/Servers/AdmireRP/Workshop/Steam
+[23.08.2022 18:23:31] [Info] 0 workshop item(s) requested
+[23.08.2022 18:23:31] [Info] Loading level: 8%
+[23.08.2022 18:23:32] [Info] Loading level: 16%
+[23.08.2022 18:23:32] [Info] Loading level: 25%
+[23.08.2022 18:23:32] [Info] Loading level: 33%
+[23.08.2022 18:23:32] [Info] Loading level: 41%
+[23.08.2022 18:23:32] [Info] Loading level: 50%
+[23.08.2022 18:23:32] [Info] Loading level: 58%
+[23.08.2022 18:23:32] [Info] Loading level: 66%
+[23.08.2022 18:23:32] [Info] Loading level: 75%
+[23.08.2022 18:23:32] [Info] Loading level: 83%
+[23.08.2022 18:23:32] [Info] Loading level: 91%
+[23.08.2022 18:23:32] [Info] Loading level: 100%
+[23.08.2022 18:23:51] [Info] Connecting: PlayerID: 76561198236767560 Name: Fluffy Character: [Гражданин] Kamikador
+[23.08.2022 18:23:59] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/buy"
+[23.08.2022 18:24:02] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/duty"
+[23.08.2022 18:24:04] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/fehr"
+[23.08.2022 18:24:06] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/i 12"
+[23.08.2022 18:24:28] [Info] Successfully admined [Гражданин] Kamikador
+[23.08.2022 18:24:32] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/i 1007"
+[23.08.2022 18:24:37] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/i 1191"
+[23.08.2022 18:24:59] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/i 145"
+[23.08.2022 18:25:12] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/i 297"
+[23.08.2022 18:25:15] [Info] Connecting: PlayerID: 76561198840708393 Name: Инкогнит Character: [Бандит] Incognit
+[23.08.2022 18:25:17] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/i 298"
+[23.08.2022 18:25:21] [Info] [Area] [Гражданин] Kamikador [Fluffy]: "/i 298 10"
+[23.08.2022 18:25:57] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/i 148"
+[23.08.2022 18:26:10] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/i 146"
+[23.08.2022 18:26:57] [Info] [World] [Бандит] Incognit [Инкогнит]: "/give 1176"
+[23.08.2022 18:27:03] [Info] Successfully gave Инкогнит 1176 x1!
+[23.08.2022 18:27:03] [Info] [World] [Бандит] Incognit [Инкогнит]: "/teleport wp"
+[23.08.2022 18:27:05] [Info] Successfully teleported Инкогнит to waypoint!
+[23.08.2022 18:27:05] [Info] [World] [Бандит] Incognit [Инкогнит]: "/tphere kam"
+[23.08.2022 18:27:09] [Info] [Гражданин] Kamikador was teleported to [Бандит] Incognit
+[23.08.2022 18:27:09] [Info] [World] [Бандит] Incognit [Инкогнит]: "/unadmin kami"
+[23.08.2022 18:27:14] [Info] [World] [Бандит] Incognit [Инкогнит]: "/unadmin inco"
+[23.08.2022 18:27:45] [Info] [World] [Бандит] Incognit [Инкогнит]: "/exit"
+[23.08.2022 18:27:57] [Info] Disconnecting: PlayerID: 76561198840708393 Name: Инкогнит Character: [Бандит] Incognit
+[23.08.2022 18:28:08] [Info] Connecting: PlayerID: 76561198840708393 Name: Инкогнит Character: [Бандит] Incognit
+[23.08.2022 18:28:23] [Info] This command can't be called from console
+[23.08.2022 18:28:30] [Info] This command can't be called from console
+[23.08.2022 18:28:39] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/god"
+[23.08.2022 18:28:44] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/gamemode"
+[23.08.2022 18:28:53] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/i 15"
+[23.08.2022 18:28:58] [Error] Failed to change gamemode while running.
+[23.08.2022 18:29:19] [Info] [World] [Бандит] Incognit [Инкогнит]: "/tp kam"
+[23.08.2022 18:29:26] [Info] Successfully unadmined [Бандит] Incognit
+[23.08.2022 18:31:16] [Info] [World] [Бандит] Incognit [Инкогнит]: "/p"
+[23.08.2022 18:31:21] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/p"
+[23.08.2022 18:31:28] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/sms inc lox"
+[23.08.2022 18:31:33] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/sms"
+[23.08.2022 18:31:39] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/sms fwgwe"
+[23.08.2022 18:32:01] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/sms incognit lox"
+[23.08.2022 18:32:16] [Info] [World] [Бандит] Incognit [Инкогнит]: "/nrp 123"
+[23.08.2022 18:32:19] [Info] [World] [Бандит] Incognit [Инкогнит]: "/do 123"
+[23.08.2022 18:32:23] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/do lox"
+[23.08.2022 18:32:24] [Info] [World] [Бандит] Incognit [Инкогнит]: "*123123*"
+[23.08.2022 18:32:30] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/try"
+[23.08.2022 18:34:11] [Info] [World] [Бандит] Incognit [Инкогнит]: "/sms kam да"
+[23.08.2022 18:34:38] [Info] [World] [Гражданин] Kamikador [Fluffy]: "wfrh"
+[23.08.2022 18:34:55] [Info] [World] [Бандит] Incognit [Инкогнит]: "123"
+[23.08.2022 18:34:57] [Info] [Area] [Бандит] Incognit [Инкогнит]: "123"
+[23.08.2022 18:35:04] [Info] [Area] [Бандит] Incognit [Инкогнит]: "привет"
+[23.08.2022 18:35:22] [Info] [Area] [Гражданин] Kamikador [Fluffy]: "heth"
+[23.08.2022 18:35:26] [Info] [World] [Гражданин] Kamikador [Fluffy]: "gerh"
+[23.08.2022 18:35:29] [Info] [Group] [Гражданин] Kamikador [Fluffy]: "hgt"
+[23.08.2022 18:35:38] [Info] [Group] [Гражданин] Kamikador [Fluffy]: "thhte"
+[23.08.2022 18:35:43] [Info] [Area] [Гражданин] Kamikador [Fluffy]: "eth"
+[23.08.2022 18:35:48] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/nrp"
+[23.08.2022 18:35:55] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/ntp wrhg"
+[23.08.2022 18:35:58] [Info] [World] [Гражданин] Kamikador [Fluffy]: "ehrt"
+[23.08.2022 18:36:03] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/nrp"
+[23.08.2022 18:36:03] [Info] Please reload individual plugins instead
+[23.08.2022 18:36:09] [Info] [World] [Гражданин] Kamikador [Fluffy]: "mrp"
+[23.08.2022 18:36:13] [Info] [World] [Гражданин] Kamikador [Fluffy]: "nrp"
+[23.08.2022 18:36:17] [Info] [World] [Гражданин] Kamikador [Fluffy]: "grg"
+[23.08.2022 18:36:19] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/nrp"
+[23.08.2022 18:36:27] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/nrp hrher"
+[23.08.2022 18:36:43] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/reload"
+[23.08.2022 18:36:49] [Info] Reloading TNTCHAT
+[23.08.2022 18:36:49] [Info] 
+[unloading] TNTCHAT
+[23.08.2022 18:36:55] [Info] 
+[loading] TNTCHAT
+[23.08.2022 18:36:55] [Info] [registered] /sms (Ryan-_-Borland_Protector_v1ARyan-_-Borland_Protector_v1/sms)
+[23.08.2022 18:36:55] [Info] [registered] /do (Ryan-_-Borland_Protector_v1eRyan-_-Borland_Protector_v1/do)
+[23.08.2022 18:36:55] [Info] [registered] /nrp (Ryan-_-Borland_Protector_v1ERyan-_-Borland_Protector_v1/nrp)
+[23.08.2022 18:36:55] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/tnt"
+[23.08.2022 18:36:59] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/reloadtnt"
+[23.08.2022 18:37:31] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/day"
+[23.08.2022 18:37:34] [Info] Successfully set time to day!
+[23.08.2022 18:37:38] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/day"
+[23.08.2022 18:37:42] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/night"
+[23.08.2022 18:37:42] [Info] [World] [Бандит] Incognit [Инкогнит]: "123"
+[23.08.2022 18:37:47] [Info] [World] [Гражданин] Kamikador [Fluffy]: "heh"
+[23.08.2022 18:37:49] [Info] [Area] [Бандит] Incognit [Инкогнит]: "123"
+[23.08.2022 18:37:51] [Info] [Area] [Бандит] Incognit [Инкогнит]: "123123"
+[23.08.2022 18:37:52] [Info] [Area] [Гражданин] Kamikador [Fluffy]: "eh"
+[23.08.2022 18:38:25] [Info] [Area] [Бандит] Incognit [Инкогнит]: "привет андрей"
+[23.08.2022 18:38:30] [Info] [Area] [Бандит] Incognit [Инкогнит]: "как дела"
+[23.08.2022 18:38:33] [Info] [Group] [Гражданин] Kamikador [Fluffy]: "ofg"
+[23.08.2022 18:38:38] [Info] [Group] [Бандит] Incognit [Инкогнит]: "офигенно"
+[23.08.2022 18:38:41] [Info] [World] [Бандит] Incognit [Инкогнит]: "123"
+[23.08.2022 18:38:58] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/nrp проверка"
+[23.08.2022 18:39:10] [Info] Successfully admined [Бандит] Incognit
+[23.08.2022 18:39:26] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/heal"
+[23.08.2022 18:39:32] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/heal kami"
+[23.08.2022 18:39:48] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/jump"
+[23.08.2022 18:40:59] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/tp inc"
+[23.08.2022 18:41:50] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/jump"
+[23.08.2022 18:41:53] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/clear"
+[23.08.2022 18:41:55] [Info] [World] [Гражданин] Kamikador [Fluffy]: "clean"
+[23.08.2022 18:42:02] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/nrp clean(r)"
+[23.08.2022 18:42:45] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/weather rain"
+[23.08.2022 18:42:48] [Error] Failed to find weather called rain.
+[23.08.2022 18:42:48] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/tphere kam"
+[23.08.2022 18:42:48] [Info] [Гражданин] Kamikador was teleported to [Бандит] Incognit
+[23.08.2022 18:42:55] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/weather unrain"
+[23.08.2022 18:42:55] [Error] Failed to find weather called unrain.
+[23.08.2022 18:43:06] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/weather clear"
+[23.08.2022 18:43:06] [Error] Failed to find weather called clear.
+[23.08.2022 18:43:13] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/weather clean"
+[23.08.2022 18:43:19] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/weather clear"
+[23.08.2022 18:43:37] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/weather clear"
+[23.08.2022 18:43:37] [Error] Failed to find weather called clear.
+[23.08.2022 18:43:38] [Info] [Area] [Бандит] Incognit [Инкогнит]: "@weather sunny"
+[23.08.2022 18:43:43] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/weather sunny"
+[23.08.2022 18:43:43] [Error] Failed to find weather called sunny.
+[23.08.2022 18:43:47] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/day"
+[23.08.2022 18:43:47] [Info] Successfully set time to day!
+[23.08.2022 18:43:55] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/buy"
+[23.08.2022 18:44:06] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/weather none"
+[23.08.2022 18:44:31] [Info] Successfully set weather to none!
+[23.08.2022 18:44:31] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/time 600"
+[23.08.2022 18:44:31] [Info] Successfully set time to 600!
+[23.08.2022 18:44:38] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/fly"
+[23.08.2022 18:45:20] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/tphere kam"
+[23.08.2022 18:45:20] [Info] [Гражданин] Kamikador was teleported to [Бандит] Incognit
+[23.08.2022 18:45:24] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/j"
+[23.08.2022 18:45:26] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/jump"
+[23.08.2022 18:45:37] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/nrp видешь?"
+[23.08.2022 18:45:44] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/jump"
+[23.08.2022 18:45:46] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/nrp видешь?"
+[23.08.2022 18:45:51] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/jump"
+[23.08.2022 18:45:56] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/nrp проверка"
+[23.08.2022 18:46:01] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/nrp проверка"
+[23.08.2022 18:46:10] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/nrp проверка123123"
+[23.08.2022 18:46:26] [Info] [Area] [Бандит] Incognit [Инкогнит]: ".огьз"
+[23.08.2022 18:46:30] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/jump"
+[23.08.2022 18:46:35] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/do пукнул"
+[23.08.2022 18:46:47] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/do пукнул"
+[23.08.2022 18:46:55] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/do пукнул"
+[23.08.2022 18:47:31] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/sms"
+[23.08.2022 18:47:32] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/jump"
+[23.08.2022 18:47:32] [Info] [Бандит] Incognit moved x:526,5015 y:60,38239(+30,98109) z:577,0653 in the last second (0,9057083)
+[23.08.2022 18:47:36] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/sms kam привет"
+[23.08.2022 18:47:37] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/sms incognito lox"
+[23.08.2022 18:49:11] [Info] [World] [Гражданин] Kamikador [Fluffy]: "пидрила"
+[23.08.2022 18:49:29] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/nrp пидрила"
+[23.08.2022 18:50:04] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/nrp пид рила"
+[23.08.2022 18:50:13] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/nrp п    ид р  !ила"
+[23.08.2022 18:50:19] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/nro lx"
+[23.08.2022 18:50:22] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/nrp lx"
+[23.08.2022 18:50:32] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/nrp п    ид     !fgр  !ила"
+[23.08.2022 18:51:11] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/nrp сука"
+[23.08.2022 18:53:31] [Info] Saving server
+[23.08.2022 18:54:15] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/p"
+[23.08.2022 18:54:30] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/shop"
+[23.08.2022 18:54:36] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/p"
+[23.08.2022 18:54:53] [Info] [Area] [Бандит] Incognit [Инкогнит]: "123123"
+[23.08.2022 18:54:58] [Info] [Area] [Бандит] Incognit [Инкогнит]: "123123"
+[23.08.2022 18:55:04] [Info] [Area] [Бандит] Incognit [Инкогнит]: "123123"
+[23.08.2022 18:55:06] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/balance"
+[23.08.2022 18:55:12] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/p"
+[23.08.2022 18:55:31] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/balanc"
+[23.08.2022 18:55:35] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/balance"
+[23.08.2022 18:55:41] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/buy 2"
+[23.08.2022 18:56:00] [Info] [Area] [Бандит] Incognit [Инкогнит]: "suck"
+[23.08.2022 18:58:13] [Info] Successfully admined [Гражданин] Kamikador
+[23.08.2022 18:58:24] [Info] [Бандит] Incognit [Инкогнит] was blown up by a vehicle!
+[23.08.2022 19:04:08] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/i generator"
+[23.08.2022 19:04:27] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/i can"
+[23.08.2022 19:04:32] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/i gas"
+[23.08.2022 19:04:39] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/i gas can"
+[23.08.2022 19:04:44] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/i gascan"
+[23.08.2022 19:04:49] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/i fuel"
+[23.08.2022 19:05:09] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/i 28"
+[23.08.2022 19:06:03] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/i 253"
+[23.08.2022 19:08:26] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/tp inc"
+[23.08.2022 19:08:32] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/v 140"
+[23.08.2022 19:08:42] [Info] [Гражданин] Kamikador moved x:729,3327 y:71,00295(+16,94949) z:508,9308 in the last second (32,62563)
+[23.08.2022 19:08:43] [Info] [Гражданин] Kamikador moved x:725,7289 y:90,61944(+19,61649) z:475,1468 in the last second (52,24212)
+[23.08.2022 19:08:44] [Info] [Гражданин] Kamikador moved x:717,3763 y:112,7374(+22,11801) z:438,2148 in the last second (63,38193)
+[23.08.2022 19:08:45] [Info] [Гражданин] Kamikador moved x:702,7375 y:132,8961(+20,15865) z:401,6789 in the last second (93,78876)
+[23.08.2022 19:08:48] [Info] [Гражданин] Kamikador moved x:641,3458 y:177,913(+17,58142) z:349,4712 in the last second (117,6346)
+[23.08.2022 19:09:01] [Info] [World] [Гражданин] Kamikador [Fluffy]: "/i gps"
+[23.08.2022 19:09:37] [Info] [Бандит] Incognit [Инкогнит] was blown up by [Гражданин] Kamikador [Fluffy] with an explosive bullet!
+[23.08.2022 19:09:58] [Info] [Бандит] Incognit moved x:-720,9063 y:58,62354(+20,14622) z:150,125 in the last second (0,114624)
+[23.08.2022 19:10:01] [Info] [Area] [Бандит] Incognit [Инкогнит]: "/EXIT"
+[23.08.2022 19:10:19] [Info] Disconnecting: PlayerID: 76561198236767560 Name: Fluffy Character: [Гражданин] Kamikador
+[23.08.2022 19:10:20] [Info] 
+[unloading] ZaupUconomyEssentials
