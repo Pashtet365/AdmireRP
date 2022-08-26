@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="jail.syntax" Value="Try this: /jail [playername] [imprisonment time]" />
+  <Translation Id="jail.player.not.found" Value="Player {0} not found, please try again." />
+  <Translation Id="jail.player.self" Value="You can't land yourself." />
+  <Translation Id="jail.player.immune" Value="Player {0} is immune, you cannot jail him." />
+  <Translation Id="jail.player.arrested" Value="Player {0} has already been arrested, he has {1} c left." />
+  <Translation Id="jail.player.is.arrested" Value="You cannot arrest as you are arrested." />
+  <Translation Id="jail.successful.arrested" Value="You have successfully arrested player {0} for {1} seconds." />
+  <Translation Id="jail.player.arrested.message" Value="You were arrested by player {0} for {1} seconds." />
+  <Translation Id="unjail.player.syntax" Value="Try this: /unjail [playername]" />
+  <Translation Id="unjail.player.not.found" Value="Player {0} not found." />
+  <Translation Id="unjail.self" Value="You can't get yourself out of jail." />
+  <Translation Id="unjail.player.is.not.arrested" Value="Player {0} has not been arrested." />
+  <Translation Id="unjail.successful.unnarrested" Value="Player {0} has been successfully released from prison." />
+  <Translation Id="unjail.successful.player.unnarrested" Value="Player {0} freed you from prison." />
+  <Translation Id="addcell.syntax" Value="Try this: /addcell | /addcell [id] [X] [Y] [Z]" />
+  <Translation Id="addcell.created.auto" Value="A new cell was created in the place where you are standing. {0}" />
+  <Translation Id="addcell.created" Value="You have successfully created a new cell. (X ({0}), Y ({1}), Z ({2}))" />
+  <Translation Id="addcell.contains" Value="Cell {0} already exists." />
+  <Translation Id="addcell.info" Value="/addcell (adding at the current position) | / addcell [X] [Y] [Z] - adding a cell" />
+  <Translation Id="removecell.info" Value="/removecell [id] - remove a cell by number" />
+  <Translation Id="jail.info" Value="/jail [player name] [imprisonment time] - jail the player for a time" />
+  <Translation Id="unjail.info" Value="/unjail [playername] - exclude a player from jail" />
+  <Translation Id="currentposition.info" Value="/position - shows the current position (can help when creating a cell)" />
+  <Translation Id="cells.info" Value="/cells - shows all created cells" />
+  <Translation Id="handcuffs.info" Value="/handcuff (where the player is looking) | /handcuff [player's name] - put handcuffs on the player" />
+  <Translation Id="unhandcuffs.info" Value="/unhandcuff (where the player is looking) | /handcuff [player's name] - remove the handcuffs from the player" />
+  <Translation Id="jailtime.info" Value="/jailtime (will work on itself) | /jailtime [player name] - see how much time is left to sit" />
+  <Translation Id="removecell.syntax" Value="/removecell [id]" />
+  <Translation Id="removecell.contains" Value="Cell number {0} does not exist." />
+  <Translation Id="removecell.removed" Value="Cell number {0} has been successfully removed." />
+  <Translation Id="cells" Value="Cell number: {0}, position: (X: {1}, Y: {2}, Z: {3})" />
+  <Translation Id="handcuff.ray.player.not.found" Value="You are not looking at the player, please try again." />
+  <Translation Id="handcuff.player.not.found" Value="Player {0} not found." />
+  <Translation Id="handcuff.self" Value="You cannot handcuff yourself." />
+  <Translation Id="handcuff.immune" Value="You cannot handcuff this player, he is immune." />
+  <Translation Id="handcuff.successful" Value="You have successfully handcuffed player {0}." />
+  <Translation Id="handcuff.successful.to.player" Value="Player {0} has handcuffed you." />
+  <Translation Id="unhandcuff.ray.player.not.found" Value="You are not looking at the player, please try again." />
+  <Translation Id="unhandcuff.player.not.found" Value="Player {0} not found." />
+  <Translation Id="unhandcuff.self" Value="You cannot remove the handcuffs yourself." />
+  <Translation Id="unhandcuff.successful" Value="You have successfully uncuffed the player you are looking at." />
+  <Translation Id="unhandcuff.successful.to.player" Value="Player {0} has removed your handcuffs." />
+  <Translation Id="jailtime.not.jailed" Value="You are not in jail." />
+  <Translation Id="jailtime.not.jailed.to.player" Value="Player {0} is not in jail." />
+  <Translation Id="jailtime.successful" Value="You have {0} seconds left." />
+  <Translation Id="jailtime.successful.to.player" Value="Player {0} has {1} seconds left." />
+  <Translation Id="jailtime.player.not.found" Value="Player {0} not found." />
+  <Translation Id="arrested.suicide" Value="You're still under arrest, you can't get out of jail, so we brought you back." />
+</Translations>

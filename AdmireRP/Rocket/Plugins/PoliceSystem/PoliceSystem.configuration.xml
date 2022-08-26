@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <IgnoreLastPlayerPosition>false</IgnoreLastPlayerPosition>
+  <BanArrestedReasonOnReconnect>You were banned for disconnecting from the server while serving your sentence!</BanArrestedReasonOnReconnect>
+  <BanArrestedOnReconnect>false</BanArrestedOnReconnect>
+  <BanDurationOnReconnect>500</BanDurationOnReconnect>
+  <WalkDistance>5</WalkDistance>
+  <SpawnPointAfterArrest>
+    <X>0</X>
+    <Y>0</Y>
+    <Z>0</Z>
+  </SpawnPointAfterArrest>
+  <Cells>
+    <Cell>
+      <Id>1</Id>
+      <Position>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </Position>
+    </Cell>
+    <Cell>
+      <Id>2</Id>
+      <Position>
+        <X>-266.5784</X>
+        <Y>38.8057747</Y>
+        <Z>229.575363</Z>
+      </Position>
+    </Cell>
+    <Cell>
+      <Id>3</Id>
+      <Position>
+        <X>-266.5784</X>
+        <Y>38.8057747</Y>
+        <Z>229.575363</Z>
+      </Position>
+    </Cell>
+  </Cells>
+</Configuration>

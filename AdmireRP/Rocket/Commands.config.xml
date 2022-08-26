@@ -152,5 +152,19 @@
     <Command Name="sms" Enabled="true" Priority="Normal">Diagonal.ZAP.CommandSMS/sms</Command>
     <Command Name="report" Enabled="true" Priority="Normal">RG.PlayerReport.CommandReport/report</Command>
     <Command Name="reports" Enabled="true" Priority="Normal">RG.PlayerReport.CommandReports/reports</Command>
+    <Command Name="position" Enabled="true" Priority="Normal">JailTime2.Core.Commands.CurrentPositionCommand/position</Command>
+    <Command Name="pos" Enabled="true" Priority="Normal">JailTime2.Core.Commands.CurrentPositionCommand/pos</Command>
+    <Command Name="jailc" Enabled="true" Priority="Normal">JailTime2.Core.Commands.JailCommandsCommand/jailc</Command>
+    <Command Name="jailtime" Enabled="true" Priority="Normal">JailTime2.Core.Commands.RemainingTimeJailCommand/jailtime</Command>
+    <Command Name="unhandcuff" Enabled="true" Priority="Normal">JailTime2.Core.Commands.UnHandcuffCommand/unhandcuff</Command>
+    <Command Name="addcell" Enabled="true" Priority="Normal">JailTime2.Core.Commands.Jail.AddCellCommand/addcell</Command>
+    <Command Name="add" Enabled="true" Priority="Normal">JailTime2.Core.Commands.Jail.AddCellCommand/add</Command>
+    <Command Name="handcuff" Enabled="true" Priority="Normal">JailTime2.Core.Commands.Jail.HandcuffCommand/handcuff</Command>
+    <Command Name="jail" Enabled="true" Priority="Normal">JailTime2.Core.Commands.Jail.JailPlayerCommand/jail</Command>
+    <Command Name="removecell" Enabled="true" Priority="Normal">JailTime2.Core.Commands.Jail.RemoveCellCommand/removecell</Command>
+    <Command Name="/rc" Enabled="true" Priority="Normal">JailTime2.Core.Commands.Jail.RemoveCellCommand//rc</Command>
+    <Command Name="cells" Enabled="true" Priority="Normal">JailTime2.Core.Commands.Jail.ShowCellsCommand/cells</Command>
+    <Command Name="unjail" Enabled="true" Priority="Normal">JailTime2.Core.Commands.Jail.UnJailPlayerCommand/unjail</Command>
+    <Command Name="ur" Enabled="true" Priority="Normal">JailTime2.Core.Commands.Jail.UnJailPlayerCommand/ur</Command>
   </Commands>
 </RocketCommands>
