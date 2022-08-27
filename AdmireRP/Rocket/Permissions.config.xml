@@ -35,6 +35,9 @@
         <Permission Cooldown="0">shop</Permission>
         <Permission Cooldown="0">apay</Permission>
         <Permission Cooldown="0">exchange</Permission>
+        <Permission Cooldown="0">kit</Permission>
+        <Permission Cooldown="0">kits</Permission>
+        <Permission Cooldown="0">essentials.kit.GovernmentHelp</Permission>
       </Permissions>
     </Group>
     <Group>
@@ -60,9 +63,7 @@
       <Prefix>[Бандит] </Prefix>
       <Suffix />
       <Color>FF9900</Color>
-      <Members>
-        <Member>76561198840708393</Member>
-      </Members>
+      <Members />
       <ParentGroup>default</ParentGroup>
       <Priority>100</Priority>
       <Permissions>

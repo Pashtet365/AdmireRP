@@ -183,5 +183,7 @@
     <Command Name="Trash" Enabled="true" Priority="Normal">TrashPlugin.Commands.TrashCommand/Trash</Command>
     <Command Name="Garbage" Enabled="true" Priority="Normal">TrashPlugin.Commands.TrashCommand/Garbage</Command>
     <Command Name="addnlrspawn" Enabled="true" Priority="Normal">FQNLR.Main/addnlrspawn</Command>
+    <Command Name="kits" Enabled="true" Priority="Normal">fr34kyn01535.Kits.CommandKits/kits</Command>
+    <Command Name="kit" Enabled="true" Priority="Normal">fr34kyn01535.Kits.CommandKit/kit</Command>
   </Commands>
 </RocketCommands>

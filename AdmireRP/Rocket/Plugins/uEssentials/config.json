@@ -61,9 +61,9 @@
     "UconomyCurrency": "$"
   },
   "AutoAnnouncer": {
-    "Interval": 30,
-    "RandomMessages": false,
-    "Enabled": false,
+    "Interval": 10,
+    "RandomMessages": true,
+    "Enabled": true,
     "Messages": [
       "Automatic message 1",
       "Automatic message 2",
