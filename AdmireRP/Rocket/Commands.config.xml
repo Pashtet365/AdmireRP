@@ -166,5 +166,19 @@
     <Command Name="cells" Enabled="true" Priority="Normal">JailTime2.Core.Commands.Jail.ShowCellsCommand/cells</Command>
     <Command Name="unjail" Enabled="true" Priority="Normal">JailTime2.Core.Commands.Jail.UnJailPlayerCommand/unjail</Command>
     <Command Name="ur" Enabled="true" Priority="Normal">JailTime2.Core.Commands.Jail.UnJailPlayerCommand/ur</Command>
+    <Command Name="door" Enabled="true" Priority="Normal">TNTAdminPanel.CommandDoor/door</Command>
+    <Command Name="storage" Enabled="true" Priority="Normal">TNTAdminPanel.CommandStorage/storage</Command>
+    <Command Name="wreckvehicle" Enabled="true" Priority="Normal">TNTAdminPanel.CommandWreckVehicle/wreckvehicle</Command>
+    <Command Name="wreckv" Enabled="true" Priority="Normal">TNTAdminPanel.CommandWreckVehicle/wreckv</Command>
+    <Command Name="wv" Enabled="true" Priority="Normal">TNTAdminPanel.CommandWreckVehicle/wv</Command>
+    <Command Name="wreckbuildable" Enabled="true" Priority="Normal">TNTAdminPanel.CommandWreckBuildable/wreckbuildable</Command>
+    <Command Name="wreckb" Enabled="true" Priority="Normal">TNTAdminPanel.CommandWreckBuildable/wreckb</Command>
+    <Command Name="wb" Enabled="true" Priority="Normal">TNTAdminPanel.CommandWreckBuildable/wb</Command>
+    <Command Name="whois" Enabled="true" Priority="Normal">TNTAdminPanel.CommandWhois/whois</Command>
+    <Command Name="select" Enabled="true" Priority="Normal">TNTAdminPanel.CommandSelect/select</Command>
+    <Command Name="911" Enabled="true" Priority="Normal">Simple911.Command911/911</Command>
+    <Command Name="CallPolice" Enabled="true" Priority="Normal">Simple911.Command911/CallPolice</Command>
+    <Command Name="CallEMS" Enabled="true" Priority="Normal">Simple911.Command911/CallEMS</Command>
+    <Command Name="CallCops" Enabled="true" Priority="Normal">Simple911.Command911/CallCops</Command>
   </Commands>
 </RocketCommands>

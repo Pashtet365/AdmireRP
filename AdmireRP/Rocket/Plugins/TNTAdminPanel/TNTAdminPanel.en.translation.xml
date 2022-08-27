@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="player_not_found" Value="Игрок не найден!" />
+  <Translation Id="barricade_destroy" Value="Вы удалили баррикаду: {0}" />
+  <Translation Id="structure_destroy" Value="Вы удалили структуру: {0}" />
+  <Translation Id="vehicle_destroy" Value="Вы удалили транспорт: {0}" />
+  <Translation Id="barricade_check" Value="ID: {0}, владелец: {1}, SteamId: {2}, Hp: {3}" />
+  <Translation Id="structure_check" Value="ID: {0}, владелец: {1}, SteamId: {2}, Hp: {3}" />
+  <Translation Id="vehicle_check" Value="ID: {0}, владелец: {1}, SteamId: {2}, Hp: {3}" />
+  <Translation Id="door" Value="Дверь {0}" />
+  <Translation Id="storage_open" Value="Хранилище открыто!" />
+  <Translation Id="invalid_storage" Value="Произошла ошибка во время открытия хранилища!" />
+  <Translation Id="syntax" Value="/select [PlayerName]" />
+</Translations>
