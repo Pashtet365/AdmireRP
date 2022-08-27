@@ -180,5 +180,7 @@
     <Command Name="CallPolice" Enabled="true" Priority="Normal">Simple911.Command911/CallPolice</Command>
     <Command Name="CallEMS" Enabled="true" Priority="Normal">Simple911.Command911/CallEMS</Command>
     <Command Name="CallCops" Enabled="true" Priority="Normal">Simple911.Command911/CallCops</Command>
+    <Command Name="Trash" Enabled="true" Priority="Normal">TrashPlugin.Commands.TrashCommand/Trash</Command>
+    <Command Name="Garbage" Enabled="true" Priority="Normal">TrashPlugin.Commands.TrashCommand/Garbage</Command>
   </Commands>
 </RocketCommands>
