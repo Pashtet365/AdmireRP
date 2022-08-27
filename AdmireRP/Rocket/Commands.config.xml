@@ -182,5 +182,6 @@
     <Command Name="CallCops" Enabled="true" Priority="Normal">Simple911.Command911/CallCops</Command>
     <Command Name="Trash" Enabled="true" Priority="Normal">TrashPlugin.Commands.TrashCommand/Trash</Command>
     <Command Name="Garbage" Enabled="true" Priority="Normal">TrashPlugin.Commands.TrashCommand/Garbage</Command>
+    <Command Name="addnlrspawn" Enabled="true" Priority="Normal">FQNLR.Main/addnlrspawn</Command>
   </Commands>
 </RocketCommands>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <nlrInterval>600</nlrInterval>
+  <nlrDistance>20</nlrDistance>
+  <spawnPosition>
+    <Vector3>
+      <x>-198.185928</x>
+      <y>38.8178444</y>
+      <z>176.912842</z>
+    </Vector3>
+  </spawnPosition>
+  <spawnDistance>50</spawnDistance>
+  <iconUrl>youriconurl</iconUrl>
+  <adminBypass>true</adminBypass>
+</Config>

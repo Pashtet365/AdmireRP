@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="SpawnAdded" Value="&lt;color=green&gt;[NLR]&lt;/color&gt; Position is added to spawn points &lt;color=green&gt;&lt;b&gt;successfully&lt;/b&gt;&lt;/color&gt;" />
+  <Translation Id="CannotEnter" Value="&lt;color=green&gt;[NLR] &gt;&lt;/color&gt; You cannot enter here for &lt;color=green&gt;&lt;b&gt;{0}&lt;/b&gt;&lt;/color&gt; seconds" />
+</Translations>
