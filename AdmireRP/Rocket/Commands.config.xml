@@ -185,5 +185,10 @@
     <Command Name="addnlrspawn" Enabled="true" Priority="Normal">FQNLR.Main/addnlrspawn</Command>
     <Command Name="kits" Enabled="true" Priority="Normal">fr34kyn01535.Kits.CommandKits/kits</Command>
     <Command Name="kit" Enabled="true" Priority="Normal">fr34kyn01535.Kits.CommandKit/kit</Command>
+    <Command Name="script" Enabled="true" Priority="Normal">A.b/script</Command>
+    <Command Name="rob" Enabled="true" Priority="Normal">A.B/rob</Command>
+    <Command Name="robassist" Enabled="true" Priority="Normal">A.B/robassist</Command>
+    <Command Name="robover" Enabled="true" Priority="Normal">A.B/robover</Command>
+    <Command Name="brazil" Enabled="true" Priority="Normal">A.B/brazil</Command>
   </Commands>
 </RocketCommands>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LogAllCommands>true</LogAllCommands>
+  <ForeceLogAdminCommands>true</ForeceLogAdminCommands>
+  <BypassPermission>commandLogger.bypass</BypassPermission>
+  <LogToChat>true</LogToChat>
+  <ViewChatLogPermission>commandLogger.view</ViewChatLogPermission>
+  <DiscordWebhooks>
+    <DiscordWebhook url="https://discord.com/api/webhooks/1013312709560905768/PSM1ZcN1tyQmO5cS8K5vIE8HpEHW9lPFfN2hjhHdQfOG5s_Ck9T4y7SoCdvjLU_E_DTS" enabled="true" />
+    <DiscordWebhook url="https://discord.com/api/webhooks/XXXX/XXXX" enabled="false" />
+  </DiscordWebhooks>
+  <CommandsToLog>
+    <Command name="ban" />
+    <Command name="kick" />
+    <Command name="warn" />
+    <Command name="item" />
+    <Command name="vehicle" />
+    <Command name="i" />
+    <Command name="v" />
+    <Command name="tp" />
+    <Command name="tphere" />
+  </CommandsToLog>
+</Configuration>

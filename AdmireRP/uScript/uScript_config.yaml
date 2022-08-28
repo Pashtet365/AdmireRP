@@ -1,0 +1,12 @@
+settings:
+  enabled: true
+filePaths:
+  scripts: default
+  modules: default
+  data: default
+database:
+  server: 127.0.0.1
+  port: 3306
+  name: unturned
+  username: username
+  password: password

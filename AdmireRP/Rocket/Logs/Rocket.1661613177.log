@@ -1,0 +1,182 @@
+[27.08.2022 18:08:21] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[27.08.2022 18:08:21] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[27.08.2022 18:08:21] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[27.08.2022 18:08:21] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[27.08.2022 18:08:21] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[27.08.2022 18:08:21] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[27.08.2022 18:08:21] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[27.08.2022 18:08:21] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[27.08.2022 18:08:21] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[27.08.2022 18:08:21] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[27.08.2022 18:08:21] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[27.08.2022 18:08:21] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[27.08.2022 18:08:21] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[27.08.2022 18:08:21] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[27.08.2022 18:08:21] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[27.08.2022 18:08:21] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[27.08.2022 18:08:21] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[27.08.2022 18:08:21] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[27.08.2022 18:08:21] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[27.08.2022 18:08:21] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[27.08.2022 18:08:21] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[27.08.2022 18:08:21] [Info] Loading AdvancedChat from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\AdvancedChat.dll
+[27.08.2022 18:08:21] [Info] Loading BTTrash from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\BTTrash.dll
+[27.08.2022 18:08:21] [Info] Loading DiagonalZAP from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\DiagonalZAP.dll
+[27.08.2022 18:08:21] [Info] Loading FQNLR from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\FQNLR.dll
+[27.08.2022 18:08:21] [Info] Loading PlayerReport from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\PlayerReport.dll
+[27.08.2022 18:08:21] [Info] Loading PoliceSystem from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\PoliceSystem.dll
+[27.08.2022 18:08:21] [Info] Loading RocketJobs from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\RocketJobs.dll
+[27.08.2022 18:08:21] [Info] Loading RocketTools from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\RocketTools.dll
+[27.08.2022 18:08:21] [Info] Loading Simple911 from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\Simple911.dll
+[27.08.2022 18:08:21] [Info] Loading TaserPlugin from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\TaserPlugin.dll
+[27.08.2022 18:08:23] [Info] Loading TNTAdminPanel from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\TNTAdminPanel.dll
+[27.08.2022 18:08:23] [Info] Loading TNTCHAT from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\TNTCHAT.dll
+[27.08.2022 18:08:23] [Info] Loading Uconomy from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\Uconomy.dll
+[27.08.2022 18:08:23] [Info] Loading uEssentials from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\uEssentials.dll
+[27.08.2022 18:08:23] [Info] Loading ZaupShop from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\ZaupShop.dll
+[27.08.2022 18:08:23] [Info] Loading ZaupUconomyEssentials from D:\Steam\steamapps\common\U3DS\Servers\AdmireRP\Rocket\Plugins\ZaupUconomyEssentials.dll
+[27.08.2022 18:08:23] [Info] 
+[loading] AdvancedChat
+[27.08.2022 18:08:23] [Info] [registered] /cwarns (AdvancedChat.CWarnsCommand/cwarns)
+[27.08.2022 18:08:23] [Info] [registered] /mute (AdvancedChat.MuteCommand/mute)
+[27.08.2022 18:08:23] [Info] [registered] /unmute (AdvancedChat.UnmuteCommand/unmute)
+[27.08.2022 18:08:23] [Info] AdvancedChat >> AdvancedChat plugin loaded!
+[27.08.2022 18:08:23] [Info] AdvancedChat >> Broadcast mute: True
+[27.08.2022 18:08:23] [Info] AdvancedChat >> Broadcast unmute: True
+[27.08.2022 18:08:23] [Info] AdvancedChat >> Warnings before mute: 5
+[27.08.2022 18:08:23] [Info] AdvancedChat >> AutoMute duration: 60
+[27.08.2022 18:08:23] [Info] AdvancedChat >> Created by Brinza Bezrukoff
+[27.08.2022 18:08:23] [Info] AdvancedChat >> Vk: vk.com/brinza888
+[27.08.2022 18:08:23] [Info] AdvancedChat >> Mail: bezrukoff888@gmail.com
+[27.08.2022 18:08:23] [Info] 
+[loading] BTTrash
+[27.08.2022 18:08:23] [Info] [registered] /trash (TrashPlugin.Commands.TrashCommand/Trash)
+[27.08.2022 18:08:23] [Info] [registered] /garbage (TrashPlugin.Commands.TrashCommand/Garbage)
+[27.08.2022 18:08:23] [Info] BTTrash >> #############################################
+[27.08.2022 18:08:23] [Info] BTTrash >> ###             BTTrash Loaded            ###
+[27.08.2022 18:08:23] [Info] BTTrash >> ###   Plugin Created By blazethrower320   ###
+[27.08.2022 18:08:23] [Info] BTTrash >> ###            Join my Discord:           ###
+[27.08.2022 18:08:23] [Info] BTTrash >> ###     https://discord.gg/YsaXwBSTSm     ###
+[27.08.2022 18:08:23] [Info] BTTrash >> #############################################
+[27.08.2022 18:08:23] [Info] 
+[loading] DiagonalZAP
+[27.08.2022 18:08:23] [Info] [registered] /r (Diagonal.ZAP.CommandReply/r)
+[27.08.2022 18:08:23] [Info] [registered] /sms (Diagonal.ZAP.CommandSMS/sms)
+[27.08.2022 18:08:23] [Info] 
+[loading] FQNLR
+[27.08.2022 18:08:23] [Info] [registered] /addnlrspawn (FQNLR.Main/addnlrspawn)
+[27.08.2022 18:08:23] [Info] 
+[loading] PlayerReport
+[27.08.2022 18:08:23] [Info] [registered] /report (RG.PlayerReport.CommandReport/report)
+[27.08.2022 18:08:23] [Info] [registered] /reports (RG.PlayerReport.CommandReports/reports)
+[27.08.2022 18:08:23] [Info] PlayerReport >> Connecting the database ...
+[27.08.2022 18:08:23] [Info] PlayerReport >> Successful connection!
+[27.08.2022 18:08:23] [Info] PlayerReport >> Report Plugin has been loaded with MySQL!
+[27.08.2022 18:08:23] [Info] 
+[loading] PoliceSystem
+[27.08.2022 18:08:23] [Info] [registered] /position (JailTime2.Core.Commands.CurrentPositionCommand/position)
+[27.08.2022 18:08:23] [Info] [registered] /pos (JailTime2.Core.Commands.CurrentPositionCommand/pos)
+[27.08.2022 18:08:23] [Info] [registered] /jailc (JailTime2.Core.Commands.JailCommandsCommand/jailc)
+[27.08.2022 18:08:23] [Info] [registered] /jailtime (JailTime2.Core.Commands.RemainingTimeJailCommand/jailtime)
+[27.08.2022 18:08:23] [Info] [registered] /unhandcuff (JailTime2.Core.Commands.UnHandcuffCommand/unhandcuff)
+[27.08.2022 18:08:23] [Info] [registered] /addcell (JailTime2.Core.Commands.Jail.AddCellCommand/addcell)
+[27.08.2022 18:08:23] [Info] [registered] /add (JailTime2.Core.Commands.Jail.AddCellCommand/add)
+[27.08.2022 18:08:23] [Info] [registered] /handcuff (JailTime2.Core.Commands.Jail.HandcuffCommand/handcuff)
+[27.08.2022 18:08:23] [Info] [registered] /jail (JailTime2.Core.Commands.Jail.JailPlayerCommand/jail)
+[27.08.2022 18:08:23] [Info] [registered] /removecell (JailTime2.Core.Commands.Jail.RemoveCellCommand/removecell)
+[27.08.2022 18:08:23] [Info] [registered] //rc (JailTime2.Core.Commands.Jail.RemoveCellCommand//rc)
+[27.08.2022 18:08:23] [Info] [registered] /cells (JailTime2.Core.Commands.Jail.ShowCellsCommand/cells)
+[27.08.2022 18:08:23] [Info] [registered] /unjail (JailTime2.Core.Commands.Jail.UnJailPlayerCommand/unjail)
+[27.08.2022 18:08:23] [Info] [registered] /ur (JailTime2.Core.Commands.Jail.UnJailPlayerCommand/ur)
+[27.08.2022 18:08:23] [Info] 
+[loading] RocketJobs
+[27.08.2022 18:08:23] [Info] [registered] /acceptjob (Rocket_Jobs.CommandJobAccept/AcceptJob)
+[27.08.2022 18:08:23] [Info] [registered] /aj (Rocket_Jobs.CommandJobAccept/AJ)
+[27.08.2022 18:08:23] [Info] [registered] /ajob (Rocket_Jobs.CommandJobAccept/AJob)
+[27.08.2022 18:08:23] [Info] [registered] /acceptj (Rocket_Jobs.CommandJobAccept/AcceptJ)
+[27.08.2022 18:08:23] [Info] [registered] /jobadmin (Rocket_Jobs.CommandJobAdmin/JobAdmin)
+[27.08.2022 18:08:23] [Info] [registered] /ja (Rocket_Jobs.CommandJobAdmin/JA)
+[27.08.2022 18:08:23] [Info] [registered] /jadmin (Rocket_Jobs.CommandJobAdmin/JAdmin)
+[27.08.2022 18:08:23] [Info] [registered] /joba (Rocket_Jobs.CommandJobAdmin/JobA)
+[27.08.2022 18:08:23] [Info] [registered] /leavejob (Rocket_Jobs.CommandJobLeave/LeaveJob)
+[27.08.2022 18:08:23] [Info] [registered] /ljob (Rocket_Jobs.CommandJobLeave/LJob)
+[27.08.2022 18:08:23] [Info] [registered] /leavej (Rocket_Jobs.CommandJobLeave/LeaveJ)
+[27.08.2022 18:08:23] [Info] [registered] /joinjob (Rocket_Jobs.CommandJoinApplyJob/JoinJob)
+[27.08.2022 18:08:23] [Info] [registered] /jj (Rocket_Jobs.CommandJoinApplyJob/JJ)
+[27.08.2022 18:08:23] [Info] [registered] /jjob (Rocket_Jobs.CommandJoinApplyJob/JJob)
+[27.08.2022 18:08:23] [Info] [registered] /jobs (Rocket_Jobs.CommandJobs/Jobs)
+[27.08.2022 18:08:23] [Info] [registered] /lj (Rocket_Jobs.CommandJobs/LJ)
+[27.08.2022 18:08:23] [Info] [registered] /ljobs (Rocket_Jobs.CommandJobs/LJobs)
+[27.08.2022 18:08:23] [Info] [registered] /listjobs (Rocket_Jobs.CommandJobs/ListJobs)
+[27.08.2022 18:08:23] [Info] RocketJobs >> Jobs, build #6 has been loaded!
+[27.08.2022 18:08:23] [Info] 
+[loading] RocketTools
+[27.08.2022 18:08:23] [Info] [registered] /rocketpermission (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketpermission)
+[27.08.2022 18:08:23] [Info] [registered] /rp (Bloodstone.Plugins.RocketTools.CommandRPerm/rp)
+[27.08.2022 18:08:23] [Info] [registered] /rpermission (Bloodstone.Plugins.RocketTools.CommandRPerm/rpermission)
+[27.08.2022 18:08:23] [Info] [registered] /rperm (Bloodstone.Plugins.RocketTools.CommandRPerm/rperm)
+[27.08.2022 18:08:23] [Info] [registered] /rocketp (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketp)
+[27.08.2022 18:08:23] [Info] [registered] /rocketperm (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketperm)
+[27.08.2022 18:08:23] [Warning] RocketTools by persiafighter, build #4 has been loaded!
+[27.08.2022 18:08:23] [Info] 
+[loading] Simple911
+[27.08.2022 18:08:23] [Info] [registered] /911 (Simple911.Command911/911)
+[27.08.2022 18:08:23] [Info] [registered] /callpolice (Simple911.Command911/CallPolice)
+[27.08.2022 18:08:23] [Info] [registered] /callems (Simple911.Command911/CallEMS)
+[27.08.2022 18:08:23] [Info] [registered] /callcops (Simple911.Command911/CallCops)
+[27.08.2022 18:08:23] [Info] Simple911 >> Loaded Simple911 version 1.0.0.3 by Spinkles
+[27.08.2022 18:08:23] [Info] 
+[loading] TaserPlugin
+[27.08.2022 18:08:23] [Info] TaserPlugin >> Loaded TaserPlugin version 1.0.0.8 by Spinkles
+[27.08.2022 18:08:23] [Info] 
+[loading] TNTAdminPanel
+[27.08.2022 18:08:23] [Info] [registered] /door (TNTAdminPanel.CommandDoor/door)
+[27.08.2022 18:08:23] [Info] [registered] /storage (TNTAdminPanel.CommandStorage/storage)
+[27.08.2022 18:08:23] [Info] [registered] /wreckvehicle (TNTAdminPanel.CommandWreckVehicle/wreckvehicle)
+[27.08.2022 18:08:23] [Info] [registered] /wreckv (TNTAdminPanel.CommandWreckVehicle/wreckv)
+[27.08.2022 18:08:23] [Info] [registered] /wv (TNTAdminPanel.CommandWreckVehicle/wv)
+[27.08.2022 18:08:23] [Info] [registered] /wreckbuildable (TNTAdminPanel.CommandWreckBuildable/wreckbuildable)
+[27.08.2022 18:08:23] [Info] [registered] /wreckb (TNTAdminPanel.CommandWreckBuildable/wreckb)
+[27.08.2022 18:08:23] [Info] [registered] /wb (TNTAdminPanel.CommandWreckBuildable/wb)
+[27.08.2022 18:08:23] [Info] [registered] /whois (TNTAdminPanel.CommandWhois/whois)
+[27.08.2022 18:08:23] [Info] [registered] /select (TNTAdminPanel.CommandSelect/select)
+[27.08.2022 18:08:23] [Info] 
+[loading] TNTCHAT
+[27.08.2022 18:08:23] [Info] [registered] /do (Ryan-_-Borland_Protector_v1fRyan-_-Borland_Protector_v1/do)
+[27.08.2022 18:08:23] [Info] [registered] /nrp (Ryan-_-Borland_Protector_v1gRyan-_-Borland_Protector_v1/nrp)
+[27.08.2022 18:08:23] [Info] 
+[loading] Uconomy
+[27.08.2022 18:08:23] [Info] [registered] /balance (fr34kyn01535.Uconomy.CommandBalance/balance)
+[27.08.2022 18:08:23] [Info] [registered] /pay (fr34kyn01535.Uconomy.CommandPay/pay)
+[27.08.2022 18:08:23] [Info] 
+[loading] uEssentials
+[27.08.2022 18:08:23] [Info] 
+[loading] ZaupShop
+[27.08.2022 18:08:23] [Info] [registered] /buy (ZaupShop.CommandBuy/buy)
+[27.08.2022 18:08:23] [Info] [registered] /cost (ZaupShop.CommandCost/cost)
+[27.08.2022 18:08:23] [Info] [registered] /sell (ZaupShop.CommandSell/sell)
+[27.08.2022 18:08:23] [Info] [registered] /shop (ZaupShop.CommandShop/shop)
+[27.08.2022 18:08:23] [Info] 
+[loading] ZaupUconomyEssentials
+[27.08.2022 18:08:23] [Info] [registered] /apay (ZaupUconomyEssentials.CommandApay/apay)
+[27.08.2022 18:08:23] [Info] [registered] /exchange (ZaupUconomyEssentials.CommandExchange/exchange)
+[27.08.2022 18:08:23] [Info] UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: PlayerUe
+[27.08.2022 18:08:23] [Info] [registered] /script (A.b/script)
+[27.08.2022 18:08:23] [Info] This server will automatically save every 1800 seconds
+[27.08.2022 18:08:23] [Info] Steam servers ready!
+[27.08.2022 18:08:23] [Info] Workshop install folder: D:\Steam\steamapps\common\U3DS/Servers/AdmireRP/Workshop/Steam
+[27.08.2022 18:08:23] [Info] 0 workshop item(s) requested
+[27.08.2022 18:08:23] [Info] Loading level: 8%
+[27.08.2022 18:08:24] [Info] Loading level: 16%
+[27.08.2022 18:08:24] [Info] Loading level: 25%
+[27.08.2022 18:08:24] [Info] Loading level: 33%
+[27.08.2022 18:08:24] [Info] Loading level: 41%
+[27.08.2022 18:08:24] [Info] Loading level: 50%
+[27.08.2022 18:08:24] [Info] Loading level: 58%
+[27.08.2022 18:08:24] [Info] Loading level: 66%
+[27.08.2022 18:08:24] [Info] Loading level: 75%
+[27.08.2022 18:08:24] [Info] Loading level: 83%
+[27.08.2022 18:08:24] [Info] Loading level: 91%
+[27.08.2022 18:08:24] [Info] Loading level: 100%
+[27.08.2022 18:12:06] [Info] 
+[unloading] TaserPlugin

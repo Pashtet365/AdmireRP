@@ -1,0 +1,88 @@
+RobbingConfig = {
+    "RobbingRange": 20
+};
+
+Robbing = array();
+Raiding = array();
+Cooldowns = array();
+
+command rob(target){
+    permission = "VetouEssentails.Rob";
+    allowCaller = "player";
+    execute(){
+        if(arguments.count < 1){
+            player.message("Proper Usage | /Rob <Player>", "red");
+            return;
+        }
+        target = toPlayer(target);
+        if(target == null){
+            player.message("Player not found!", "red");
+            return;
+        }
+        else{
+            if(!Cooldowns.contains(player.id)){    
+                if(Robbing.contains(player.id)){
+                    player.message("You are already robbing someone! Please type /RobOver to end the previous Robbery!", "red");
+                }
+                else{
+                    targetPos = target.position;
+                    playerPos = player.position;
+                if(playerPos.distance(target.position) < RobbingConfig["RobbingRange"]){
+                    broadcast(player.name + " is currently robbing " + target.name + "! Near: " + player.nearestLocation + "", "red");
+                    Robbing.add(player.id);
+                }
+                else{
+                    player.message("You need to be atleast " + RobbingConfig["RobbingRange"] + " meeters from the target!", "red");
+                }
+            }
+        }
+        else{
+            player.message("You are currently on cooldown! Please try to rob later on!", "red");
+            }
+        }
+    }
+}
+
+command RobAssist(Robber){
+    permission = "VetouEssentails.RobAssist";
+    allowCaller = "player";
+    execute(){
+        if(arguments.count < 1){
+            player.message("Proper Usage | /RobAssist <Robber>");
+            return;
+        }
+        Robber = toPlayer(Robber);
+        if(Robber == null){
+            player.message("Player not found!");
+            return;
+        }
+        else if(Robbing.contains(Robber.id)){
+            RobberPos = Robber.position;
+            PlayerPos = player.position;
+            if(PlayerPos.distance(RobberPos) < RobbingConfig["RobbingRange"]){
+                broadcast(player.name + " Is now Assisting " + Robber.name + " in the robbery!", "red");
+            }
+            else{
+                player.message("You need to be atleast " + RobbingConfig["RobbingRange"] + " meeters from the robber to assist!", "red");
+            }
+        }
+    }
+}
+
+command robover(){
+    permission = "VetouEssentails.RobOver";
+    allowCaller = "player";
+    execute(){
+        if(Robbing.contains(player.id)){
+            broadcast(player.name + " has finished their robbery!", "red");
+            Robbing.remove(player.id);
+            Cooldowns.add(player.id);
+            wait.seconds(1800, Cooldowns["remove"], player.id);
+            player.message("You're Robbing Cooldown has started!", "red");
+            wait.seconds(10, player["message"], "You're cooldown has expired! You can rob again!", "red");
+        }
+        else{
+            player.message("You are not in a acitve robbery!", "red");
+        }
+    }
+}
